@@ -947,7 +947,7 @@ https://ninjatv2.cu.ma/mac/api.php?id=5530
 #EXTINF:-1 group-title="Tamil-News" tvg-logo="https://bestmediainfo.com/uploads/2018/07/Colors_Tamil_HD_1.jpg" tvg-id="767",|TAMIL| COLORS TAMIL HD
 https://ninjatv2.cu.ma/mac/api.php?id=4657
 
-#EXTINF:-1 group-title="Tamil-News" tvg-logo="https://nettv4u.com/imagine/07-07-2020/kuthu-pattu.jpg" tvg-id="767",|MUSIC| ISAI ARUVI
+#EXTINF:-1 tvg-id="IsaiAruvi.in" tvg-logo="https://i.imgur.com/yO18FLo.png" group-title="free channels india",|MUSIC|ISAI ARUVI
 https://ninjatv2.cu.ma/mac/api.php?id=3709
 
 #EXTINF:-1 group-title="Tamil-News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/KTV_India_logo.png" tvg-id="767",|TAMIL| KTV HD
@@ -965,8 +965,8 @@ https://ninjatv2.cu.ma/mac/api.php?id=5560
 #EXTINF:-1 group-title="Tamil-News" tvg-logo="https://www.indiantvinfo.com/media/2022/09/Logo-of-Vijay-Takkar-Channel.jpg" tvg-id="767",|TAMIL| STAR VIJAY TV
 https://ninjatv2.cu.ma/mac/api.php?id=4655
 
-#EXTINF:-1 group-title="Tamil-News" tvg-logo="https://sund-images.sunnxt.com/9013/500x750_SunMusicHD_9013_a1f6d6ac-015b-4e0f-b756-bc331824e590.jpg" tvg-id="767",|MUSIC| SUN MUSIC HD
-https://ninjatv2.cu.ma/mac/api.php?id=4655
+#EXTINF:-1 group-title="Tamil-News" tvg-logo="https://sund-images.sunnxt.com/9013/640x360_456a97b5-d134-41c2-8266-11c269c18968.jpg" tvg-id="767",|MUSIC| SUN MUSIC HD
+https://ninjatv2.cu.ma/mac/api.php?id=5199
 
 #EXTINF:-1 group-title="Tamil-News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png" tvg-id="767",|TAMIL| SUN TV US
 https://ninjatv2.cu.ma/mac/api.php?id=4658
