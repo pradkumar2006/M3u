@@ -931,9 +931,14 @@ https://ninjatv2.cu.ma/mac/api.php?id=5179
 #EXTINF:-1 group-title="Tamil-News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Sirippoli_tv.jpg" tvg-id="767",|COMEDY| SIRIPPOLI TV
 https://ninjatv2.cu.ma/mac/api.php?id=5278
 
+#EXTINF:-1 group-title="Tamil-News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Sirippoli_tv.jpg" tvg-id="767",|COMEDY| SIRIPPOLI TV
+http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8
 
 #EXTINF:-1 group-title="Tamil-News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Logo_of_News7_Tamil_Logo.jpg" tvg-id="767",|NEWS| NEWS 7 TAMIL
 https://ninjatv2.cu.ma/mac/api.php?id=5205
+
+#EXTINF:-1 group-title="Tamil-News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Newsj_Logo.png" tvg-id="767",|NEWS| NEWS J TAMIL
+https://ninjatv2.cu.ma/mac/api.php?id=5419
 
 #EXTINF:-1 group-title="Tamil-News" tvg-logo="https://www.ranklogos.com/wp-content/uploads/2012/04/7s-music-logo-1.jpg" tvg-id="767",|MUSIC| 7S MUSIC
 https://ninjatv2.cu.ma/mac/api.php?id=5277
@@ -985,6 +990,12 @@ https://ninjatv2.cu.ma/mac/api.php?id=5183
 
 #EXTINF:-1 group-title="Tamil-News" tvg-logo="https://www.indiantvinfo.com/media/2022/09/Logo-of-Vijay-Takkar-Channel.jpg" tvg-id="767",|ENGLISH| STAR MOVIES HD
 https://ninjatv2.cu.ma/mac/api.php?id=5488
+
+#EXTINF:-1 group-title="Tamil-News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Mk_six.png/revision/latest?cb=20210331185019" tvg-id="767",|COMEDY| MK SIX
+https://ninjatv2.cu.ma/mac/api.php?id=5421
+
+#EXTINF:-1 group-title="Tamil-News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Mk_six.png/revision/latest?cb=20210331185019" tvg-id="767",|COMEDY| MK SIX
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
 
 #EXTINF:-1 group-title="உள்ளூர்",|LOCAL|THANGAM TV
 http://live.singamcloud.in/thangamtv/thangamtv/index.m3u8
