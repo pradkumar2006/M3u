@@ -1205,6 +1205,8 @@ https://www.beastplayer.tk/LiveTv/DenTv/master.m3u8?id=5402
 #EXTINF:-1 tvg-id="@MadXSia" tvg-logo="https://i.imgur.com/iV0RoSE.png" group-title="DenTv ~ @TataPlayM3U",|TAMIL|PUTHUYUGAM
 https://www.beastplayer.tk/LiveTv/DenTv/master.m3u8?id=5558 
 
+#EXTINF:-1 tvg-id="@AVENGERSOFFICIAL786" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg?20170822070549" group-title="AVENGERS ~ @AVENGERSOFFICIAL786",|TAMIL|KALAIGNAR TV.
+https://madlink.biz/jio/autoq.php?id=1209
 
 #EXTINF:-1 group-title="உள்ளூர்",|LOCAL|THANGAM TV
 http://live.singamcloud.in/thangamtv/thangamtv/index.m3u8
