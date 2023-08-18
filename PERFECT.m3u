@@ -997,15 +997,9 @@ https://ninjatv2.cu.ma/mac/api.php?id=5421
 #EXTINF:-1 group-title="Tamil-News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Mk_six.png/revision/latest?cb=20210331185019" tvg-id="767",|COMEDY| MK SIX
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
 
-#EXTINF:-1 tvg-id="@AVENGERSOFFICIAL786" tvg-logo="http://watch.push4k.tv/stalker_portal/misc/logos/320/" group-title="AVENGERS ~ @AVENGERSOFFICIAL786",|COMEDY|SIRIPPOLI
-https://www.beastplayer.tk/LiveTv/XTv/iptv.php?id=19705
-
-#EXTINF:-1 tvg-id="@AVENGERSOFFICIAL786" tvg-logo="http://watch.push4k.tv/stalker_portal/misc/logos/320/" group-title="AVENGERS ~ @AVENGERSOFFICIAL786",|COMEDY|SIRIPPOLI
-https://www.beastplayer.tk/LiveTv/XTv/iptv.php?id=19706
-
 
 #EXTINF:-1 tvg-id="@AVENGERSOFFICIAL786" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg?20170822070549" group-title="AVENGERS ~ @AVENGERSOFFICIAL786",|TAMIL|KALAIGNAR TV.
-https://madlink.biz/jio/autoq.php?id=1209
+https://madlink.biz/hls/arturojio/autoq.php?id=1209
 
 #EXTINF:-1 group-title="உள்ளூர்",|LOCAL|THANGAM TV
 http://live.singamcloud.in/thangamtv/thangamtv/index.m3u8
