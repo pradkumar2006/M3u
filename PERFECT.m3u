@@ -933,7 +933,7 @@ http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippol
 
 
 #EXTINF:-1 group-title="Tamil-News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Mk_six.png/revision/latest?cb=20210331185019" tvg-id="767",|COMEDY| MK SIX
-http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+http://103.223.14.56:8000/play/a0mn/index.m3u8
 
 
 #EXTINF:-1 tvg-id="@AVENGERSOFFICIAL786" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg?20170822070549" group-title="AVENGERS ~ @AVENGERSOFFICIAL786",|TAMIL|KALAIGNAR TV.
@@ -979,7 +979,9 @@ http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/Stream(01)/index.m3u8
 
 #EXTINF:-1 tvg-id="IsaiAruvi.in" tvg-logo="https://i.imgur.com/AzIEYXU.png" group-title="free channels india",|NEWS|NEWS TAMIL 24X7
-https://ythls.armelin.one/channel/UCtbo6_eDG7zEtaOtcSltJkA.m3u8
+https://ythls.armelin.one/channel/bDh1jm2IB9c.m3u8
+
+
 
 #EXTINF:-1 tvg-id="IsaiAruvi.in" tvg-logo="https://i.imgur.com/ItegRAT.png" group-title="free channels india",|NEWS|POLIMER NEWS
 https://ythls.armelin.one/channel/UC8Z-VjXBtDJTvq6aqkIskPg.m3u8
@@ -1146,6 +1148,17 @@ https://sscloud7.com/hls/galaxytv.m3u8
 
 #EXTINF:-1, tvg-logo="https://assets-galaxyott.s3.ap-south-1.amazonaws.com/contant/poster/287a60fb-e35b-48b6-8919-9319f0b455e9.webp" group-title="Testing", |MOVIES|MAX MOVIES
 https://galaxyott.live/hls/maxmovies.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Sangeet_Bhojpuri.jpg" group-title="INDIA", |BHOJ| SANGEET BHOJPURI
+http://103.223.14.56:8000/play/a0tx/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/TV9_India.png/revision/latest?cb=20190216115316" group-title="INDIA", |NEWS| TV9 TAMIL
+http://103.223.14.56:8000/play/a0yh/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://the-media-ant.mo.cloudinary.net/medias/58c91e38694fe70f730ff18d/1600326775846/download_logo.jpg?tx=w_350" group-title="INDIA", |MUSIC| MK TUNES
+http://103.223.14.56:8000/play/a0mm/index.m3u8
 
 
 
