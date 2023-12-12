@@ -1161,10 +1161,44 @@ http://103.223.14.56:8000/play/a0yh/index.m3u8
 http://103.223.14.56:8000/play/a0mm/index.m3u8
 
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/i9ct2MX.png" group-title="Tamil;Local",|RTMP|RASI TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+rtmp://s1.tamilstreams.in/rasinetwork/rasitv
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/i9ct2MX.png"" group-title="Tamil;Local",|RTMP|RASI MOVIES
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+rtmp://s1.tamilstreams.in/rasinetwork/rasimovies
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/i9ct2MX.png"" group-title="Tamil;Local",|RTMP|RASI TAMIL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+rtmp://s1.tamilstreams.in/rasinetwork/rasitamil
 
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/i9ct2MX.png"" group-title="Tamil;Local",|RTMP|RASI COMEDY
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+rtmp://s1.tamilstreams.in/rasinetwork/rasicomedy
 
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/i9ct2MX.png"" group-title="Tamil;Local",|RTMP|RASI MUSIC
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+rtmp://s1.tamilstreams.in/rasinetwork/rasimusic
+
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/i9ct2MX.png"" group-title="Tamil;Local",|RTMP|RASI CLASSIC
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+rtmp://s1.tamilstreams.in/rasinetwork/rasiclassic
 
 
 
