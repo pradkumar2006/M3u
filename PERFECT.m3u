@@ -931,13 +931,16 @@ http://dpny5.1234.uno:6061/starvijaymusic/index.m3u8
 #EXTINF:-1 group-title="Tamil-News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Sirippoli_tv.jpg" tvg-id="767",|COMEDY| SIRIPPOLI TV
 http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8
 
+#EXTINF:-1 group-title="Tamil-News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Sirippoli_tv.jpg" tvg-id="767",|COMEDY| SIRIPPOLI TV
+https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Tamil-News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Mk_six.png/revision/latest?cb=20210331185019" tvg-id="767",|COMEDY| MK SIX
 http://103.223.14.56:8000/play/a0mn/index.m3u8
 
 
 #EXTINF:-1 tvg-id="@AVENGERSOFFICIAL786" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg?20170822070549" group-title="AVENGERS ~ @AVENGERSOFFICIAL786",|TAMIL|KALAIGNAR TV.
-https://madlink.biz/hls/arturojio/autoq.php?id=1209
+https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 
 #EXTINF:-1 group-title="உள்ளூர்",|LOCAL|THANGAM TV
 http://live.singamcloud.in/thangamtv/thangamtv/index.m3u8
@@ -974,6 +977,13 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 #EXTINF:-1 tvg-id="IsaiAruvi.in" tvg-logo="https://i.imgur.com/yO18FLo.png" group-title="free channels india",|MUSIC|ISAI ARUVI
 http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
+
+#EXTINF:-1 tvg-id="IsaiAruvi.in" tvg-logo="https://i.imgur.com/yO18FLo.png" group-title="free channels india",|MUSIC|ISAI ARUVI
+https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IsaiAruvi.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b9/Murasu-TV.png" group-title="free channels india",|MUSIC|MURASU TV
+https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="IsaiAruvi.in" tvg-logo="https://www.ranklogos.com/wp-content/uploads/2012/04/7s-music-logo-1.jpg" group-title="free channels india",|MUSIC|7S MUSIC
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/Stream(01)/index.m3u8
