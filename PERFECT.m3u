@@ -981,8 +981,8 @@ http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
 #EXTINF:-1 tvg-id="IsaiAruvi.in" tvg-logo="https://i.imgur.com/yO18FLo.png" group-title="free channels india",|MUSIC|ISAI ARUVI
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="IsaiAruvi.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b9/Murasu-TV.png" group-title="free channels india",|MUSIC|MURASU TV
-https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
+#EXTINF:-1 tvg-id="IsaiAruvi.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b9/Murasu-TV.png" group-title="free channels india",|MOVIES|MURASU TV
+https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="IsaiAruvi.in" tvg-logo="https://www.ranklogos.com/wp-content/uploads/2012/04/7s-music-logo-1.jpg" group-title="free channels india",|MUSIC|7S MUSIC
