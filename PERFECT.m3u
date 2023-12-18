@@ -1133,76 +1133,45 @@ http://103.223.14.56:8000/play/a0mm/index.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-rtmp://s1.tamilstreams.in/rasinetwork/rasitv
+http://rasinetworks.in:1935/rasitv/rasitv.stream_aac/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/i9ct2MX.png" group-title="Tamil;Local",|MOVIES|RASI TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://s1.tamilstreams.in/rasinetwork/rasitv/index.mpd
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/i9ct2MX.png"" group-title="Tamil;Local",|RTMP|RASI MOVIES
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-rtmp://s1.tamilstreams.in/rasinetwork/rasimovies
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/i9ct2MX.png"" group-title="Tamil;Local",|MOVIES|RASI MOVIES
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://s1.tamilstreams.in/rasinetwork/rasimovies/index.mpd
+http://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/i9ct2MX.png"" group-title="Tamil;Local",|RTMP|RASI TAMIL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-rtmp://s1.tamilstreams.in/rasinetwork/rasitamil
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/i9ct2MX.png"" group-title="Tamil;Local",|MOVIES|RASI TAMIL
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://s1.tamilstreams.in/rasinetwork/rasitamil/index.mpd
-
+http://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/i9ct2MX.png"" group-title="Tamil;Local",|RTMP|RASI COMEDY
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-rtmp://s1.tamilstreams.in/rasinetwork/rasicomedy
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/i9ct2MX.png"" group-title="Tamil;Local",|COMEDY|RASI COMEDY
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://s1.tamilstreams.in/rasinetworks/rasicomedy/index.mpd
-
+http://rasinetworks.in:1935/rasicomedy/rasicomedy.stream_aac/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/i9ct2MX.png"" group-title="Tamil;Local",|RTMP|RASI MUSIC
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-rtmp://s1.tamilstreams.in/rasinetwork/rasimusic
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/i9ct2MX.png"" group-title="Tamil;Local",|MUSIC|RASI MUSIC
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://s1.tamilstreams.in/rasinetwork/rasimusic/index.mpd
+http://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/i9ct2MX.png"" group-title="Tamil;Local",|RTMP|RASI CLASSIC
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-rtmp://s1.tamilstreams.in/rasinetwork/rasiclassic
+http://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/i9ct2MX.png"" group-title="Tamil;Local",|MOVIES|RASI CLASSIC
+#EXTINF:0 tvg-logo="https://i.imgur.com/i9ct2MX.png"" group-title="Tamil;Local",|MOVIES|RASI HOLLYWOOD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://s1.tamilstreams.in/rasinetwork/rasiclassic/index.mpd
+http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FCTN%2FCTN-SIRIPPU.png?alt=media&token=945fdfe6-2d99-479f-a12e-831596646623" group-title="1Cloud",|COMEDY|CTN SIRIPPU
 https://ipcloud.live/ctn/sirippu.m3u8
