@@ -1414,7 +1414,7 @@ http://xtv.ooo:8080/Somroy5/Roysom9/109968
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://xtv.ooo:8080/Somroy5/Roysom9/109968
+http://xtv.ooo:8080/Somroy5/Roysom9/355547
 
 #EXTINF:0 group-title="Tamil;Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/%26flix_HD_Leap_forth.svg/1024px-%26flix_HD_Leap_forth.svg.png",|ENGLISH|AND FLIX HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1444,7 +1444,7 @@ http://mega4k.net:8080/atoon200GREGTRG/TYTRYHGFH/73817
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://xtv.ooo:8080/Somroy5/Roysom9/109968
+http://xtv.ooo:8080/Somroy5/Roysom9/66266
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Vijay_Super_HD.png/revision/latest/scale-to-width-down/250?cb=20211017153149" group-title="Tamil International",|TAMIL|VIJAY SUPER
 http://xtv.ooo:8080/Somroy5/Roysom9/244622
