@@ -959,10 +959,14 @@ https://ythls.armelin.one/channel/UCsfh2Zb7-m4qzT8jLhK_Fzw.m3u8
 
 
 #EXTINF:-1 group-title="VOOT",|VOOT|COLORS TAMIL HD
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Tamil_HD_voot_MOB/Fallback/index.m3u8
+http://xtv.ooo:8080/Somroy5/Roysom9/244635
 
 #EXTINF:-1,|SPORTS|SPORTS 18  HD
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
+http://xtv.ooo:8080/Somroy5/Roysom9/355936
+
+#EXTINF:-1,|SPORTS|SPORTS 18  HD
+http://xtv.ooo:8080/Somroy5/Roysom9/302600
+
 
 #EXTINF:-1,|SPORTS|SPORTS 18  KHEL HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
@@ -1448,4 +1452,35 @@ http://xtv.ooo:8080/Somroy5/Roysom9/66266
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Vijay_Super_HD.png/revision/latest/scale-to-width-down/250?cb=20211017153149" group-title="Tamil International",|TAMIL|VIJAY SUPER
 http://xtv.ooo:8080/Somroy5/Roysom9/244622
+
+
+#EXTINF:-1 group-title="VOOT",|XTV|STAR SPORTS 1 HD
+http://xtv.ooo:8080/Somroy5/Roysom9/355594
+
+#EXTINF:-1 group-title="VOOT",|XTV|STAR SPORTS 2 HD
+http://xtv.ooo:8080/Somroy5/Roysom9/355595
+
+
+#EXTINF:-1 group-title="VOOT",|XTV|STAR SPORTS SELECT 1 HD
+http://xtv.ooo:8080/Somroy5/Roysom9/355596
+
+#EXTINF:-1 group-title="VOOT",|XTV|STAR SPORTS SELECT 2 HD
+http://xtv.ooo:8080/Somroy5/Roysom9/355597
+
+
+#EXTINF:-1 group-title="VOOT",|XTV|STAR SPORTS 1 HD
+http://xtv.ooo:8080/Somroy5/Roysom9/167575
+
+#EXTINF:-1 group-title="VOOT",|XTV|STAR SPORTS 2 HD
+http://xtv.ooo:8080/Somroy5/Roysom9/167576
+
+#EXTINF:-1 group-title="VOOT",|XTV|STAR SPORTS 3 HD
+http://xtv.ooo:8080/Somroy5/Roysom9/167577
+
+
+#EXTINF:-1 group-title="VOOT",|XTV|STAR SPORTS SELECT 1 HD
+http://xtv.ooo:8080/Somroy5/Roysom9/167578
+
+#EXTINF:-1 group-title="VOOT",|XTV|STAR SPORTS SELECT 2 HD
+http://xtv.ooo:8080/Somroy5/Roysom9/167579
 
