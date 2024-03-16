@@ -1152,7 +1152,7 @@ rtmp://rasinetworks.in/rasinetworks/rasimovies
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 rtmp://s2.rasinetworks.in:1935/rasinetworks/rasitamil
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/i9ct2MX.png"" group-title="Tamil;Local",|RTMP|RASI TAMIL
+#EXTINF:0 tvg-logo="https://i.imgur.com/i9ct2MX.png"" group-title="Tamil;Local",|RTMP|RASI TAMIL S1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
