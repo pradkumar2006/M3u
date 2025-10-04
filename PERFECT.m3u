@@ -2468,5 +2468,23 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/in
 #EXTINF:-1 tvg-name="DD Bangla" group-title="Hindi" tvg-logo="https://i.ibb.co/sJK02cJG/1000141542.jpg",DD Bangla
 https://cdn-1.pishow.tv/live/10/master.m3u8
 
+#EXTINF:-1 tvg-name="DD Bharathi" group-title="Hindi" tvg-logo="https://i.ibb.co/whym5np5/1000141544.jpg",DD Bharathi
+https://cdn-1.pishow.tv/live/10/master.m3u8
+#EXTINF:-1 tvg-name="DD Bihar" group-title="Hindi" tvg-logo="https://i.ibb.co/Q79j9xGd/1000141545.jpg",DD Bihar
+https://cdn-4.pishow.tv/live/35/master.m3u8
+#EXTINF:-1 tvg-name="Epic Tv" group-title="Infotainment" tvg-logo="https://i.ibb.co/YBPsHDXJ/1000141566.jpg",Epic Tv
+https://epiconvh.akamaized.net/live/epic/master.m3u8
+#EXTINF:-1 tvg-name="I News" group-title="Telugu" tvg-logo="https://i.ibb.co/qM4B2nGs/1000141573.jpg",I News
+https://cdn-1.pishow.tv/live/411/master.m3u8
+#EXTINF:-1 tvg-name="ITN News" group-title="Sinhala" tvg-logo="https://i.ibb.co/zHrjtrMY/1000141574.jpg",ITN News
+https://edge4-moblive.yuppcdn.net/transsd/smil%3aitn43.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Lokshahi" group-title="Hindi" tvg-logo="https://i.ibb.co/dJGcFw3W/1000141646.jpg",Lokshahi
+https://see.lokshahi.live/live/index.m3u8
+#EXTINF:-1 tvg-name="Star Select 1 HD" group-title="Sports" tvg-logo="https://i.ibb.co/Q7XvZb66/1000141664.jpg",Star Select 1 HD
+http://89.187.189.98/STARSPORTSSELECT1HD/index.m3u8
+#EXTINF:-1 tvg-name="Star Select 2 HD" group-title="Sports" tvg-logo="https://i.ibb.co/Q7XvZb66/1000141664.jpg",Star Select 2 HD
+http://89.187.189.98/STARSPORTSSELECT2HD/index.m3u8
+
+
 
 
