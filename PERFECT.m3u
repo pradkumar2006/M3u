@@ -2522,6 +2522,22 @@ https://cdn-2.pishow.tv/live/1241/master.m3u8
 #EXTINF:-1 group-title="-",NEWS 9
 http://202.164.50.194:8000/play/a01s/index.m3u8
 
+#EXTINF:-1 tvg-name="Astro Vinmeen" group-title="International" tvg-logo="https://i.ibb.co/Y4Txhpkk/1000131636.jpg",Astro Vinmeen
+https://live20.bozztv.com/akamaissh101/ssh101/sungo544/playlist.m3u8
+#EXTINF:-1 tvg-name="Etv Music" group-title="Telugu" tvg-logo="https://i.ibb.co/bjL1ctyg/1000142442.jpg",Etv Music
+https://cc-szivnms4rlah6.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szivnms4rlah6/6173a07b-668b-457c-b6ef-50c58d2b7991/1.m3u8
+#EXTINF:-1 tvg-name="Etv Comedy" group-title="Telugu" tvg-logo="https://i.ibb.co/1fHhCkSf/1000142447.png",Etv Comedy
+https://cc-wie8j8y69d2uy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wie8j8y69d2uy/f2f59ff5-3585-4808-b7df-04f7445a7138/1.m3u8
+#EXTINF:-1 tvg-name="Etv Josh" group-title="Telugu" tvg-logo="https://i.ibb.co/LDfLDpJB/1000142500.png",Etv Josh
+https://cc-uyh1ow5zouoio.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uyh1ow5zouoio/be345488-d68c-4928-ab56-33760e506be5/1.m3u8
+#EXTINF:-1 tvg-name="Etv News" group-title="Telugu" tvg-logo="https://i.ibb.co/sdPxQy8z/1000142551.png",Etv News
+https://cc-3448kp65yhc5w.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3448kp65yhc5w/e73503ca-8965-4097-96a0-c4ec1a6a1741/2.m3u8
+#EXTINF:-1 tvg-name="NK Tv" group-title="Hindi" tvg-logo="https://i.ibb.co/4n0JF35L/1000142558.jpg",NK Tv
+https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Astro Vellithirai" group-title="International" tvg-logo="https://i.ibb.co/tP88RyPr/1000142586.jpg",Astro Vellithirai
+https://live20.bozztv.com/akamaissh101/ssh101/sungo543/playlist.m3u8?view=tnm3u-addedby=tnm3u
+
 
 
 
