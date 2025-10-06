@@ -2538,6 +2538,61 @@ https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8
 #EXTINF:-1 tvg-name="Astro Vellithirai" group-title="International" tvg-logo="https://i.ibb.co/tP88RyPr/1000142586.jpg",Astro Vellithirai
 https://live20.bozztv.com/akamaissh101/ssh101/sungo543/playlist.m3u8?view=tnm3u-addedby=tnm3u
 
+#EXTINF:-1 tvg-name="Prathana Tv" group-title="Hindi" tvg-logo="https://i.ibb.co/2fGjM5T/1000142781.jpg",Prathana Tv
+https://livetv.tarangplus.in/prarthana-origin/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Prudent Media" group-title="Hindi" tvg-logo="https://i.ibb.co/tTFkcMZ3/1000142785.jpg",Prudent Media
+https://prudentmcdn.rixcast.com/prudentm.m3u8
+#EXTINF:-1 tvg-name="PTC Chak De" group-title="Hindi" tvg-logo="https://i.ibb.co/xK3fcY5m/1000142787.jpg",PTC Chak De
+https://cdn-1.pishow.tv/live/449/master.m3u8
+#EXTINF:-1 tvg-name="PTC Punjabi" group-title="Hindi" tvg-logo="https://i.ibb.co/NgsD84H4/1000142797.jpg",PTC Punjabi
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
+#EXTINF:-1 tvg-name="PTC Punjabi Gold" group-title="Hindi" tvg-logo="https://i.ibb.co/TxLvVhLs/1000142806.jpg",PTC Punjabi Gold
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
+#EXTINF:-1 tvg-name="PTC Simran" group-title="Hindi" tvg-logo="https://i.ibb.co/rGShcHL9/1000142810.jpg",PTC Simran
+https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/a682c050-1974-4e9b-8935-e5508d1ce94d/3.m3u8
+#EXTINF:-1 tvg-name="PTC Pardesi" group-title="Hindi" tvg-logo="https://i.ibb.co/sd6yLT09/1000142812.jpg",PTC Pardesi
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Public Music Tv" group-title="Hindi" tvg-logo="https://i.ibb.co/QFMTNdwv/1000142814.jpg",Public Music Tv
+https://cdn-3.pishow.tv/live/441/master.m3u8
+#EXTINF:-1 tvg-name="Boys Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/gb3csMbZ/1000144375.jpg",Boys Tv
+https://rtmp.applelive.in/boystv/boystv/index.m3u8
+#EXTINF:-1 tvg-name="Ayya Vaikundar Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/rfMsdCg6/1000144376.webp",Ayya Vaikundar Tv
+http://ayyatv.sscloud7.in/live/ayyatv/index.m3u8
+#EXTINF:-1 tvg-name="Vinayaga Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/KcfsfLhk/1000144378.jpg",Vinayaga Tv
+https://server.sscloud7.in/live/vinayagatv/index.m3u8
+#EXTINF:-1 tvg-name="Devi Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/fdB0GhXs/1000144380.jpg",Devi Tv
+https://server.sscloud7.in/live/devitv/index.m3u8
+#EXTINF:-1 tvg-name="Isai Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/LXsdZT8j/1000144388.jpg",Isai Tv
+https://server.sscloud7.in/isaihd/isaihd/index.m3u8
+#EXTINF:-1 tvg-name="Sri Thangamalai Murugan Television" group-title="Tamil" tvg-logo="https://i.ibb.co/mPyQWph/1000144392.png",Sri Thangamalai Murugan Television
+http://server3.sscloud7.in/stmtv/srithangamalaimurugantv/playlist.m3u8
+#EXTINF:-1 tvg-name="N Tv Pkt" group-title="Tamil" tvg-logo="https://i.ibb.co/Cr4zmhf/1000144394.png",N Tv Pkt
+https://stream.galaxyott.live/live/ntvpkt/index.m3u8
+#EXTINF:-1 tvg-name="Rahul Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/hvWn0kr/1000144431.jpg",Rahul Tv
+http://alk.sscloud7.in:1935/live/raghultv/index.m3u8
+#EXTINF:-1 tvg-name="Ayya Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/v6FzN61r/1000144432.png",Ayya Tv
+http://alk.sscloud7.in:1935/live/ayyatv/playlist.m3u8
+#EXTINF:-1 tvg-name="Jenifer Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/wF0LnNcQ/1000144434.jpg",Jenifer Tv
+http://alk.sscloud7.in:1935/live/jenifertv/index.m3u8
+#EXTINF:-1 tvg-name="Visil HD" group-title="Tamil" tvg-logo="https://i.ibb.co/Y4cJHfff/1000144437.jpg",Visil HD
+https://stream.sscloud7.in/live/vishiltv1/index.m3u8
+#EXTINF:-1 tvg-name="Visil Max" group-title="Tamil" tvg-logo="https://i.ibb.co/67173JWf/1000144439.jpg",Visil Max
+https://stream.sscloud7.in/live/vishiltv2/index.m3u8
+#EXTINF:-1 tvg-name="KM Music" group-title="Tamil" tvg-logo="https://i.ibb.co/TxTLdbp6/1000144441.jpg",KM Music
+http://server3.sscloud7.in/kmmusic/kmmusic/playlist.m3u8
+#EXTINF:-1 tvg-name="Om Tv SS" group-title="Tamil" tvg-logo="https://i.ibb.co/ksrxqTBM/1000144453.png",Om Tv SS
+http://alk.sscloud7.in:1935/live/ohmtv/playlist.m3u8
+#EXTINF:-1 tvg-name="N Vision" group-title="Malayalam" tvg-logo="https://i.ibb.co/xKmd1jhw/1000144455.jpg",N Vision
+https://ipcloud.live/nvision/nvisionhd.m3u8
+#EXTINF:-1 tvg-name="N Vision Music" group-title="Malayalam" tvg-logo="https://i.ibb.co/8nf14kzg/1000144463.png",N Vision Music
+https://stream.onecloudlive.in/nvision/nvisionmusic/index.m3u8
+#EXTINF:-1 tvg-name="M Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/5Xn7F7FM/1000144465.jpg",M Tv
+https://ipcloud.live/mtv/menhd/index.m3u8
+#EXTINF:-1 tvg-name="Ganesh Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/gZkWM8pZ/1000144491.jpg",Ganesh Tv
+https://live.thendralcloud.in/ganeshtvlive/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="ThendralTv" group-title="Tamil" tvg-logo="https://i.ibb.co/S435QDGz/1000144496.jpg",ThendralTv
+https://live.thendralcloud.in/thendraltv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+
 
 
 
