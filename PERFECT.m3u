@@ -2593,6 +2593,9 @@ https://live.thendralcloud.in/ganeshtvlive/d0dbe915091d400bd8ee7f27f0791303.sdp/
 #EXTINF:-1 tvg-name="ThendralTv" group-title="Tamil" tvg-logo="https://i.ibb.co/S435QDGz/1000144496.jpg",ThendralTv
 https://live.thendralcloud.in/thendraltv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-name="& Flix HD" group-title="English" tvg-logo="https://i.ibb.co/whsm6qKX/1000139802.jpg",& FLIX HD
+http://195.181.169.162/AND_FLIX_HD/index.m3u8?token=test
+
 
 
 
