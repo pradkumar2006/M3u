@@ -2596,6 +2596,63 @@ https://live.thendralcloud.in/thendraltv/d0dbe915091d400bd8ee7f27f0791303.sdp/pl
 #EXTINF:-1 tvg-name="& Flix HD" group-title="English" tvg-logo="https://i.ibb.co/whsm6qKX/1000139802.jpg",& FLIX HD
 http://195.181.169.162/AND_FLIX_HD/index.m3u8?token=test
 
+#EXTINF:-1 tvg-name="Extreme Sports" group-title="Sports" tvg-logo="https://i.ibb.co/p645Nzfm/1000144992.jpg",Extreme Sports
+https://176.116.105.82/Extreme_Sports/index.m3u8
+#EXTINF:-1 tvg-name="Nat Geo" group-title="Infotainment" tvg-logo="https://i.ibb.co/xS94GQPP/1000144995.jpg",Nat Geo
+http://195.181.169.162/NAT_GEO_WILD_HD/playlist.m3u8?token=test
+#EXTINF:-1 tvg-name="BBC Earth Tamil" group-title="Infotainment" tvg-logo="https://i.ibb.co/pvD1JncY/1000145253.jpg",BBC Earth Tamil
+http://89.187.189.98/SONYBBCEARTHTAMIL/index.m3u8
+#EXTINF:-1 tvg-name="Colors Gujarati" group-title="Hindi" tvg-logo="https://i.ibb.co/9H82CSG1/1000144998.jpg",Colors Gujarati
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsGujarati/JCHLS/index.m3u8
+#EXTINF:-1 tvg-name="Colors Cineplex Superhits" group-title="Hindi" tvg-logo="https://i.ibb.co/S4zPmCTZ/1000145000.jpg",Colors Cineplex Superhits
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexSuperhit/JCHLS/index.m3u8
+#EXTINF:-1 tvg-name="Colors Cineplex Bollywood" group-title="Hindi" tvg-logo="https://i.ibb.co/21DBYLLM/1000145002.png",Colors Cineplex Bollywood
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS/index.m3u8
+#EXTINF:-1 tvg-name="Colors Cineplex HD" group-title="Hindi" tvg-logo="https://i.ibb.co/LX3zRXdm/1000145008.jpg",Colors Cineplex HD
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/index.m3u8
+#EXTINF:-1 tvg-name="Colors Kannda Cinema" group-title="Kannada" tvg-logo="https://i.ibb.co/7NkLFD3M/1000145014.jpg",Colors Kannda Cinema
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsKannadaCinema/JCHLS/index.m3u8
+#EXTINF:-1 tvg-name="Colors Kannda HD" group-title="Kannada" tvg-logo="https://i.ibb.co/7NkLFD3M/1000145014.jpg",Colors Kannda HD
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsKannadaHD/JCHLS/index.m3u8
+#EXTINF:-1 tvg-name="Colors Tamil HD" group-title="Tamil" tvg-logo="https://i.ibb.co/v4rmzb5M/1000144915.jpg",Colors Tamil HD
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsTamilHD/JCHLS/index.m3u8
+#EXTINF:-1 tvg-name="Colors Marathi" group-title="Hindi" tvg-logo="https://i.ibb.co/LXyC0D9w/1000145016.jpg",Colors Marathi
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsMarathiHD/JCHLS/index.m3u8
+#EXTINF:-1 tvg-name="Colors Bangla" group-title="Hindi" tvg-logo="https://i.ibb.co/h1MKMx2M/1000145018.jpg",Colors Bangla
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsBanglaHD/JCHLS/index.m3u8
+#EXTINF:-1 tvg-name="Shemaroo Tv" group-title="Hindi" tvg-logo="https://i.ibb.co/TM5kcBYb/1000145019.jpg",Shemaroo Tv
+https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 tvg-name="Viju Nature" group-title="Infotainment" tvg-logo="https://i.ibb.co/qLy1n2Gn/1000145095.jpg",Viju Nature
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Nature_HD_ad.smil/playlist.m3u8?e=1760755466&md5=cyIaXbc1LRlijrQFyHp5LA
+#EXTINF:-1 tvg-name="Viju Explore" group-title="Infotainment" tvg-logo="https://i.ibb.co/zh106Hbg/1000145097.jpg",Viju Explore
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Explore_HD_ad.smil/playlist.m3u8?e=1760755370&md5=la17qH9EcLAsxm7n_ZRTng
+#EXTINF:-1 tvg-name="Jayam Tv Namakkal" group-title="Tamil" tvg-logo="https://i.ibb.co/MxXLfHMg/1000145099.png",Jayam Tv Namakkal
+https://rtmp.bmlive.net/bms/jayamtv/index.m3u8
+#EXTINF:-1 tvg-name="Eagle Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/1fSXBRZy/1000145101.jpg",Eagle Tv
+https://rtmp.bmlive.net/bms/eagletv/index.m3u8
+#EXTINF:-1 tvg-name="We Baduga Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/msBGprc/1000145103.jpg",We Baduga Tv
+https://rtmp.bmlive.net/webaduga/webaduga/index.m3u8
+#EXTINF:-1 tvg-name="BBC Earth" group-title="Infotainment" tvg-logo="https://i.ibb.co/pvD1JncY/1000145253.jpg",BBC Earth
+http://195.181.169.162/BBC_EARTH_HD/playlist.m3u8?token=test
+#EXTINF:-1 tvg-name="Bein Sports" group-title="Sports" tvg-logo="https://i.ibb.co/PZ8yjV6p/1000145254.jpg",Bein Sports
+http://212.102.60.10/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 tvg-name="Da Vinci" group-title="Kids" tvg-logo="https://i.ibb.co/5WfYHfXb/1000145256.jpg",Da Vinci
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Da_Vinci_Learning_HD.smil/playlist.m3u8?e=1760755396&md5=jh65Gs4Jh8Y83EwXcCXivg
+#EXTINF:-1 tvg-name="Viju Explore" group-title="Infotainment" tvg-logo="https://i.ibb.co/27rTQprC/1000145258.jpg",Viju Explore
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Explore_HD_ad.smil/playlist.m3u8?e=1760755370&md5=la17qH9EcLAsxm7n_ZRTng
+#EXTINF:-1 tvg-name="MTV HD" group-title="English" tvg-logo="https://i.ibb.co/XffWLKcF/1000145260.jpg",MTV HD
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_MTVHD/JCHLS/index.m3u8
+#EXTINF:-1 tvg-name="Saam Tv" group-title="Hindi" tvg-logo="https://i.ibb.co/hRMBZq0V/1000145273.jpg",Saam Tv
+https://cdn-3.pishow.tv/live/437/master.m3u8
+#EXTINF:-1 tvg-name="Sharda Tv" group-title="Hindi" tvg-logo="https://i.ibb.co/QjbfjVjk/1000145274.jpg",Sharda Tv
+http://cdn12.henico.net:8080/live/sadatv/index.m3u8
+#EXTINF:-1 tvg-name="Sadhna Plus Tv" group-title="Hindi" tvg-logo="https://i.ibb.co/FbpnKMRF/1000145289.jpg",Sadhna Plus Tv
+https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Sansad Tv" group-title="Hindi" tvg-logo="https://i.ibb.co/1kHJwG3/1000145290.jpg",Sansad Tv
+https://playhls.media.nic.in/live/lstv/index.m3u8
+#EXTINF:-1 tvg-name="Madha Tv Tamil" group-title="Tamil" tvg-logo="https://i.ibb.co/KxFg9SQL/1000145294.jpg",Madha Tv Tamil
+http://45.148.145.57/TAMIL_MadhaTV/index.m3u8
+
 
 
 
