@@ -2686,6 +2686,30 @@ http://89.187.189.98/STARMOVIESSELECTHD/index.m3u8
 #EXTINF:-1 tvg-name="Movies Now HD" group-title="English" tvg-logo="https://i.ibb.co/HynNmv7/1000146392.jpg",Movies Now HD
 http://89.187.189.98/MOVIESNOWHD/index.m3u8
 
+#EXTINF:-1 tvg-id="extra-mnxhd" tvg-name="MNXHD" tvg-logo="" group-title="Extra Channels",MNXHD
+http://89.187.189.98/MNXHD/index.m3u8
+
+#EXTINF:-1 tvg-id="429" tvg-name="Colors_Tamil_HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="Entertainment",Colors_Tamil_HD
+http://servertvhub.site/jio/app/live.php?id=429
+
+#EXTINF:-1 tvg-id="803" tvg-name="Tunes_6" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Tunes_6.png" group-title="Music",Tunes_6
+http://servertvhub.site/jio/app/live.php?id=803
+
+#EXTINF:-1 tvg-id="1296" tvg-name="B4U_Bhojpuri" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Bhojpuri.png" group-title="Movies",B4U_Bhojpuri
+http://servertvhub.site/jio/app/live.php?id=1296
+
+#EXTINF:-1 tvg-id="2229" tvg-name="Bhojpuri_Junction" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bhojpuri_Junction.png" group-title="Music",Bhojpuri_Junction
+http://servertvhub.site/jio/app/live.php?id=2229
+
+#EXTINF:-1 tvg-id="2755" tvg-name="Saregama_Hum_Bhojpuri" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Saregama_Hum_Bhojpuri.png" group-title="Music",Saregama_Hum_Bhojpuri
+http://servertvhub.site/jio/app/live.php?id=2755
+
+#EXTINF:-1 tvg-id="486" tvg-name="Bhojpuri_Cinema" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bhojpuri_Cinema.png" group-title="Movies",Bhojpuri_Cinema
+http://servertvhub.site/jio/app/live.php?id=486
+
+#EXTINF:-1 tvg-id="741" tvg-name="Sangeet_Bhojpuri" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bhojpuri.png" group-title="Music",Sangeet_Bhojpuri
+http://servertvhub.site/jio/app/live.php?id=741
+
 
 
 
