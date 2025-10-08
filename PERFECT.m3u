@@ -2710,6 +2710,30 @@ http://servertvhub.site/jio/app/live.php?id=486
 #EXTINF:-1 tvg-id="741" tvg-name="Sangeet_Bhojpuri" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bhojpuri.png" group-title="Music",Sangeet_Bhojpuri
 http://servertvhub.site/jio/app/live.php?id=741
 
+#EXTINF:-1 tvg-id="894" tvg-name="KTV_HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png" group-title="Movies",KTV_HD
+http://servertvhub.site/jio/app/live.php?id=894
+
+#EXTINF:-1 tvg-id="895" tvg-name="Sun_Music_HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png" group-title="Music",Sun_Music_HD
+http://servertvhub.site/jio/app/live.php?id=895
+
+#EXTINF:-1 tvg-id="1209" tvg-name="Kalaignar_TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_TV.png" group-title="Entertainment",Kalaignar_TV
+http://servertvhub.site/jio/app/live.php?id=1209
+
+#EXTINF:-1 tvg-id="1647" tvg-name="MK_Six" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MK_Six.png" group-title="Entertainment",MK_Six
+http://servertvhub.site/jio/app/live.php?id=1647
+
+#EXTINF:-1 tvg-id="709" tvg-name="Adithya_TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Adithya_TV.png" group-title="Entertainment",Adithya_TV
+http://servertvhub.site/jio/app/live.php?id=709
+
+#EXTINF:-1 tvg-id="896" tvg-name="Sun_TV_HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png" group-title="Entertainment",Sun_TV_HD
+http://servertvhub.site/jio/app/live.php?id=896
 
 
+#EXTINF:-1 tvg-id="1210" tvg-name="Kalaignar_Seithigal_" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_Seithigal_.png" group-title="News",Kalaignar_Seithigal_
+http://servertvhub.site/jio/app/live.php?id=1210
 
+#EXTINF:-1 tvg-id="419" tvg-name="Jaya_TV_HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" group-title="Entertainment",Jaya_TV_HD
+http://servertvhub.site/jio/app/live.php?id=419
+
+#EXTINF:-1 tvg-id="1371" tvg-name="Colors_Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil.png" group-title="Entertainment",Colors_Tamil
+http://servertvhub.site/jio/app/live.php?id=1371
