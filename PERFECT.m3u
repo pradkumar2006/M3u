@@ -113,12 +113,8 @@ http://live.wmncdn.net/nambikkaitv/live.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TBXTY8W.png" group-title="INDIA",|TAMIL|VELICHAM TV
 https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.mediaworldasia.dk/images/channels/tamil/ibcsiluvai.jpg" group-title="INDIA",|IBC|IBC SILUVAI
-https://tx1.ibctamil.tv/CDN_IBC_Siluvai/index.m3u8
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="Sun News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Sun_News.jpg/revision/latest?cb=20180318050509" group-title="Live: India",|YOUTUBE| SUN NEWS
-https://raw.githubusercontent.com/naveenland4/UTLive/main/SunNews.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/ASIA%20INDIA/NDTV247.png" group-title="International (India)",|LOCAL|NDTV 24X7
@@ -167,20 +163,7 @@ https://stream.sscloud7.com/sachinmusic.m3u8
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 https://eu.streamjo.com/eetlive/eettv.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dantv.tv/images/dan-comedy-logo-01.jpg" group-title="Tamil;Entertainment",|COMEDY|DAN COMEDY
-https://askmedia.livebox.co.in/DanComodyhls/9.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/COBRALOGO/tamil/JAYAPLUS.png" group-title="INDIA",|YOUTUBE| JAYA PLUS
-https://raw.githubusercontent.com/naveenland4/UTLive/main/JayaPlus.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/COBRALOGO/tamil/RAJNEWS.png" group-title="INDIA",|YOUTUBE| RAJ NEWS
-https://raw.githubusercontent.com/naveenland4/UTLive/main/RajNewsTamil.m3u8
-
-#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/COBRALOGO/tamil/SATHIYAMTV.png" group-title="INDIA",|UTUBE|SATHIYAM TV
-https://raw.githubusercontent.com/naveenland4/UTLive2/main/Sathiyamtv.m3u8
 
 
 #EXTINF:-1 group-title="Sneh Local" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG5530.png",|LOCAL|POLIMER CHANNEL
@@ -198,17 +181,6 @@ http://live.singamcloud.in:80/maatv/maatv/playlist.m3u8
 #EXTINF:-1 group-title="Tamil Local" tvg-logo="https://content.jdmagicbox.com/comp/chennai/m7/044pxx44.xx44.180528164553.x1m7/catalogue/annai-tv-kolathur-chennai-newspaper-advertising-agencies-r1ugulajs3-250.jpg",|LOCAL|ANNAI TV
 http://annaitv.livebox.co.in/annailivehls/live.m3u8
 
-#EXTINF:-1 group-title="Malayalam Local;Entertainment" tvg-logo="https://i.postimg.cc/cLwtmx4x/onetv.png",|MALAYALAM|ONE TV MALAYALAM
-http://137.59.86.218:1935/live/onetv/chunklist_w439742991.m3u8
-
-#EXTINF:-1 group-title="Malayalam Local;Entertainment" tvg-logo="https://utvpkd.in/assets/img/logo.png",|MALAYALAM|UTV PALAKAD MALAYALAM
-http://live.wmncdn.net:80/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/chunks.m3u8
-
-#EXTINF:-1 group-title="Malayalam Local;Entertainment" tvg-logo="https://kcltv.com/live.png",|MALAYALAM|KCL TV
-http://kcltv.livebox.co.in:80/kclhls/live.m3u8
-
-#EXTINF:-1 group-title="Malayalam;Entertainment" tvg-logo="https://m4tv.com.au/assests/images/logo.png",|MALAYALAM|M4 MALAYALAM AUSTRALIA
-http://app.m4stream.live/mfourmalayalamhls/live.m3u8
 
 #EXTINF:-1 group-title="Malayalam;Entertainment" tvg-logo="https://yt3.ggpht.com/vu2CEn-_StvaTAHp7BMvtw0n63S2_U4yDEnpoIr67KHVhsyCjSrIL1lnngVFD8lSibDL9Jmbklk=s900-c-k-c0x00ffffff-no-rj",|MALAYALAM|PULARI TV MALAYALAM
 http://192.99.2.28/pularitv_hls/pularitv.m3u8
@@ -318,11 +290,6 @@ https://ipcloud.live/aadhavantv/adhavanmdu.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/GDQkxdYrv0o/maxresdefault.jpg" group-title="TLL MUSIC",|MUSIC|VP CLASSIC TV
 https://singamcloud.in/vpclassic/vpclassic/index.m3u8
 
-#EXTINF:-1 ,tvg-logo="http://nammaoorutv.com/dashboard/upicons/NEW 80 LOGO.png" group-title="TLL MUSIC", |NEWS|NEWS80 TV
-http://198.144.149.206:8080/NOTV/NEWS80/index.m3u8?token=GTR
-
-#EXTINF:-1 ,tvg-logo="http://nammaoorutv.com/dashboard/upicons/1681491609417.jpg" group-title="TLL MUSIC", |NEWS|NEWS12PRIME TV
-http://198.144.149.206:8080/NOTV/NEWS12PRIME/index.m3u8?token=GTR
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/dKruTJ3CfY9KA2Cwl5FAv7jiIPxPdrJHorOzhWfftBhUGmhECXZ4y0kdreGz6YgMcjk=w240-h480-rw" group-title="TLL MUSIC",|MUSIC| OM TV 
 https://1cloud.digital/omtv/live.m3u8
@@ -2707,6 +2674,7 @@ https://servertvhub.site/jio/app/ts_live_817.m3u8
 https://servertvhub.site/jio/app/ts_live_937.m3u8
 #EXTINF:-1 tvg-name="Big Boss Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/4R7HrYCh/1000146146.jpg",Big Boss Tv
 https://xtm.8088yyy.workers.dev/481102.m3u8
+
 
 
 
