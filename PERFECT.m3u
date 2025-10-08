@@ -2653,6 +2653,61 @@ https://playhls.media.nic.in/live/lstv/index.m3u8
 #EXTINF:-1 tvg-name="Madha Tv Tamil" group-title="Tamil" tvg-logo="https://i.ibb.co/KxFg9SQL/1000145294.jpg",Madha Tv Tamil
 http://45.148.145.57/TAMIL_MadhaTV/index.m3u8
 
+#EXTINF:-1 tvg-name="SR Music HD" group-title="Tamil" tvg-logo="https://i.ibb.co/465sRmf/1000145789.jpg",SR Music HD
+http://srnet.bmlive.net:1935/srmusic/myStream/playlist.m3u8
+#EXTINF:-1 tvg-name="KC Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/FLxPfgh4/1000145813.jpg",KC Tv
+https://rtmp.bmlive.net/bms/kctv/index.m3u8
+#EXTINF:-1 tvg-name="MCN" group-title="Tamil" tvg-logo="https://i.ibb.co/p6Y2yP6K/1000145828.jpg",MCN
+https://play.applelive.in/mcntv/mcntv.m3u8
+#EXTINF:-1 tvg-name="Jeyson Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/1YTsY7y4/1000145830.jpg",Jeyson Tv
+https://play.applelive.in/jeysontv/jeysontv.m3u8
+#EXTINF:-1 tvg-name="STN" group-title="Tamil" tvg-logo="https://i.ibb.co/rRc3GPNS/1000145832.jpg",STN
+https://play.applelive.in/stntv/stntv.m3u8
+#EXTINF:-1 tvg-name="JCV Musix" group-title="Tamil" tvg-logo="https://i.ibb.co/7t9gdB1v/1000145833.gif",JCV Musix
+https://play.applelive.in/jcvtv/jcvmusix.m3u8
+#EXTINF:-1 tvg-name="Boss Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/1B47ySJ/1000145836.jpg",Boss Tv
+https://play.applelive.in/vasantv/vasantv.m3u8
+#EXTINF:-1 tvg-name="Kumari Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/MxSz56Z0/1000145848.jpg",Kumari Tv
+https://rtmp.applelive.in/gvkumaritv/gvkumaritv/index.m3u8
+#EXTINF:-1 tvg-name="Apple Tv Pondy" group-title="Tamil" tvg-logo="https://i.ibb.co/JFncHkkm/1000145850.jpg",Apple Tv Pondy
+https://stream.iplive.xyz/appletv/4kpondy/index.m3u8
+#EXTINF:-1 tvg-name="Vedha" group-title="Tamil" tvg-logo="https://i.ibb.co/Tqvf93mB/1000133568.jpg",Vedha
+https://skystream.in/live/vedha6528/index.m3u8
+#EXTINF:-1 tvg-name="Penguin Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/LzrTB9Rr/1000145853.jpg",Penguin Tv
+https://live.applelive.in/penguinhd/penguinhd/index.m3u8
+#EXTINF:-1 tvg-name="Dolphin Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/6pjGDbc/1000145856.jpg",Dolphin Tv
+https://play.applelive.in/dolphintv/dolphintv.m3u8
+#EXTINF:-1 tvg-name="Manju Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/QvnKft4c/1000145860.png",Manju Tv
+http://manjutv.stream.onecloudlive.in/manjutv/manjutv/index.m3u8
+#EXTINF:-1 tvg-name="SV Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/Z1zWzXBz/1000145864.jpg",SV Tv
+http://shreeparams.7starcloud.com:1935/live/params/playlist.m3u8
+#EXTINF:-1 tvg-name="Anandham Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/R8y8hpd/1000145866.png",Anandham Tv
+https://live1.sscloud7.com/live/anandhamtv/index.m3u8
+#EXTINF:-1 tvg-name="Ezhil Tv Tamil" group-title="Tamil" tvg-logo="https://i.ibb.co/qF5JfbMh/1000145932.jpg",Ezhil Tv Tamil
+http://ezhiltv.stream.onecloudlive.in/ezhiltv/ezhilhd/index.m3u8
+#EXTINF:-1 tvg-name="Pogo Tamil" group-title="Kids" tvg-logo="https://i.ibb.co/WNBkfHwr/1000145954.jpg",Pogo Tamil
+https://servertvhub.site/jio/app/ts_live_542.m3u8
+#EXTINF:-1 tvg-name="Sonic Tamil" group-title="Kids" tvg-logo="https://i.ibb.co/HDtdbt0V/1000145955.jpg",Sonic Tamil
+https://servertvhub.site/jio/app/ts_live_290.m3u8
+#EXTINF:-1 tvg-name="Nick Tamil" group-title="Kids" tvg-logo="https://i.ibb.co/1tt90t6C/1000146017.jpg",Nick Tamil
+https://servertvhub.site/jio/app/ts_live_546.m3u8
+#EXTINF:-1 tvg-name="Discovery Tamil" group-title="Kids" tvg-logo="https://i.ibb.co/RGjjS2Gv/1000146022.jpg",Discovery Tamil
+https://servertvhub.site/jio/app/ts_live_550.m3u8
+#EXTINF:-1 tvg-name="Chutti Tv SD" group-title="Kids" tvg-logo="https://i.ibb.co/Ld6HnYVL/1000146023.jpg",Chutti Tv SD
+https://servertvhub.site/jio/app/ts_live_557.m3u8
+#EXTINF:-1 tvg-name="Discovery Tamil" group-title="Infotainment" tvg-logo="https://i.ibb.co/JR04jTCz/1000146024.jpg",Discovery Tamil
+https://servertvhub.site/jio/app/ts_live_569.m3u8
+#EXTINF:-1 tvg-name="History Tv 18 HD Tamil" group-title="Infotainment" tvg-logo="https://i.ibb.co/5gthmFJt/1000145958.jpg",History Tv 18 HD Tamil
+https://servertvhub.site/jio/app/ts_live_579.m3u8
+#EXTINF:-1 tvg-name="Tunes6" group-title="Tamil" tvg-logo="https://i.ibb.co/m5TjVfxs/1000146026.jpg",Tunes6
+https://servertvhub.site/jio/app/ts_live_803.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network Tamil" group-title="Kids" tvg-logo="https://i.ibb.co/N6yMzzL6/1000146028.jpg",Cartoon Network Tamil
+https://servertvhub.site/jio/app/ts_live_817.m3u8
+#EXTINF:-1 tvg-name="Sai Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/ZZ84S1j/1000146033.jpg",Sai Tv
+https://servertvhub.site/jio/app/ts_live_937.m3u8
+#EXTINF:-1 tvg-name="Big Boss Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/4R7HrYCh/1000146146.jpg",Big Boss Tv
+https://xtm.8088yyy.workers.dev/481102.m3u8
+
 
 
 
