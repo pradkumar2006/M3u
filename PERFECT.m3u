@@ -2737,3 +2737,20 @@ http://servertvhub.site/jio/app/live.php?id=419
 
 #EXTINF:-1 tvg-id="1371" tvg-name="Colors_Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil.png" group-title="Entertainment",Colors_Tamil
 http://servertvhub.site/jio/app/live.php?id=1371
+
+#EXTINF:-1 tvg-name="Jothi Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/spNHQ4Y1/1000146573.jpg",Jothi Tv
+https://servertvhub.site/jio/app/ts_live_2768.m3u8
+#EXTINF:-1 tvg-name="Sun News" group-title="Tamil" tvg-logo="https://i.ibb.co/Ts02qvW/1000146575.jpg",Sun News
+http://m3u.8088y.site/yt.php?c=sunnews
+#EXTINF:-1 tvg-name="Kumudham Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/7dghfZ84/1000146578.jpg",Kumudham Tv
+http://m3u.8088y.site/yt.php?c=KumudamNews24x7
+#EXTINF:-1 tvg-name="HM Tv" group-title="Telugu" tvg-logo="https://i.ibb.co/zHjBSNqB/1000146580.jpg",HM Tv
+http://m3u.8088y.site/yt.php?c=hmtvtelugunewslive
+#EXTINF:-1 tvg-name="Live Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/Jj3Nb0SB/1000146583.jpg",Live Tv
+http://lime-cr1.phoenixcreations.online/lime/lime/index.m3u8
+#EXTINF:-1 tvg-name="Vaani Visuals" group-title="Tamil" tvg-logo="https://i.ibb.co/kVjczzn0/1000146597.jpg",Vaani Visuals
+http://vaanivisuals.in:1935/vaanitv/vaanitv/playlist.m3u8
+#EXTINF:-1 tvg-name="S Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/QvcTq3XW/1000146614.jpg",S Tv
+https://play.applelive.in/stv/stv.m3u8
+
+
