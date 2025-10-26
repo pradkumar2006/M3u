@@ -3274,6 +3274,23 @@ https://stream.onecloudlive.in/sachintv/strawberrytv/index.m3u8
 https://notvstream.in/brightsimrosetv/brightsimrosetv.m3u8
 #EXTINF:-1 tvg-name="Easan Tv" group-title="Devotional" tvg-logo="https://i.ibb.co/tMtysz6V/1000159800.png",Easan Tv
 https://amigofx.com:1936/easontv/easontv/playlist.m3u8
+#EXTINF:-1 tvg-name="RV Tv HD" group-title="Local Channel | Tamil" tvg-logo="https://i.ibb.co/4RdSBq9G/1000160410.png",RV Tv HD
+https://ipcloud.live/rvtv/rvtvhd/index.m3u8
+#EXTINF:-1 tvg-name="Bass Tv" group-title="Local Channel | Tamil" tvg-logo="https://i.ibb.co/0T18RLC/1000160418.png",Bass Tv
+http://xstream.onecloudlive.in:8080/bass/basstv/index.m3u8
+#EXTINF:-1 tvg-name="RS Tv" group-title="Local Channel | Tamil" tvg-logo="https://i.ibb.co/4RdSBq9G/1000160410.png",RS Tv
+https://stream.onecloudlive.in/rstv/rstvhd/index.m3u8
+#EXTINF:-1 tvg-name="UTV Mayuram" group-title="Local Channel | Tamil" tvg-logo="https://i.ibb.co/PZ8B5pMS/1000160425.png",UTV Mayuram
+https://notvstream.in/utv/utv.m3u8
+#EXTINF:-1 tvg-name="Sai Tv" group-title="Local Channel | Tamil" tvg-logo="https://i.ibb.co/CshQRVhJ/1000161161.png",Sai Tv
+http://server.sscloud7.in/live/livesaitv/index.m3u8
+
+#EXTINF:-1 tvg-name="Al Ayyam TV" group-title="International" tvg-logo="https://i.ibb.co/jvC47gks/1000161191.png",Al Ayyam TV
+http://63b03f7689049.streamlock.net:1935/live/6/playlist.m3u8
+#EXTINF:-1 tvg-name="Sachin Music" group-title="Local Channel | Tamil" tvg-logo="https://i.ibb.co/1G598w73/1000150945.png",Sachin Music
+https://ipcloud.live/sachintv/musichd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ACE Tv" tvg-logo="https://i.ibb.co/XfRyXFbK/1000161169.png" group-title="Sports",ACE Tv
+https://streams2.sofast.tv/WiseM3U8_30/sofast/cleanhls/master.m3u8
 
 
 
