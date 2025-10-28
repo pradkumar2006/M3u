@@ -3291,6 +3291,8 @@ http://63b03f7689049.streamlock.net:1935/live/6/playlist.m3u8
 https://ipcloud.live/sachintv/musichd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ACE Tv" tvg-logo="https://i.ibb.co/XfRyXFbK/1000161169.png" group-title="Sports",ACE Tv
 https://streams2.sofast.tv/WiseM3U8_30/sofast/cleanhls/master.m3u8
+#EXTINF:-1 tvg-name="Britain Tamil Bakthi" group-title="Devotional" tvg-logo="https://i.ibb.co/5XHS38QS/1000161604.png",Britain Tamil Bakthi
+https://stream.onecloudlive.in/britaintamil/britaintamil/index.m3u8
 
 
 
