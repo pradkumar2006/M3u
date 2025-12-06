@@ -3294,6 +3294,16 @@ https://streams2.sofast.tv/WiseM3U8_30/sofast/cleanhls/master.m3u8
 #EXTINF:-1 tvg-name="Britain Tamil Bakthi" group-title="Devotional" tvg-logo="https://i.ibb.co/5XHS38QS/1000161604.png",Britain Tamil Bakthi
 https://stream.onecloudlive.in/britaintamil/britaintamil/index.m3u8
 
+#EXTINF:-1 tvg-name="FILMACHI BHOJPURI" group-title="BHOJPURI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Filamchi-Bhojpuri_Tagline.jpg",FILMACHI BHOJPURI
+https://epiconvh.akamaized.net/live/filamchi/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.jdmagicbox.com/comp/dharmapuri/m5/9999p4342.4342.180430181533.r6m5/catalogue/mn-tv-dharmapuri-railway-station-dharmapuri-advertising-agencies-for-electronic-media-uavmdlq5sa.jpg" group-title="INDIA",|MOVIES|MN TV
+http://mntv.livebox.co.in/musichls/live.m3u8
+
+
+
+
+
 
 
 
