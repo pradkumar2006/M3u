@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3UF
 
 
 #EXTINF:0 group-title="Tamil;Local" tvg-logo="https://i.imgur.com/EaHWWNl.jpg",|LOCAL|7STAR TV
@@ -2648,8 +2648,7 @@ https://play.applelive.in/dolphintv/dolphintv.m3u8
 http://manjutv.stream.onecloudlive.in/manjutv/manjutv/index.m3u8
 #EXTINF:-1 tvg-name="SV Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/Z1zWzXBz/1000145864.jpg",SV Tv
 http://shreeparams.7starcloud.com:1935/live/params/playlist.m3u8
-#EXTINF:-1 tvg-name="Anandham Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/R8y8hpd/1000145866.png",Anandham Tv
-https://live1.sscloud7.com/live/anandhamtv/index.m3u8
+
 #EXTINF:-1 tvg-name="Ezhil Tv Tamil" group-title="Tamil" tvg-logo="https://i.ibb.co/qF5JfbMh/1000145932.jpg",Ezhil Tv Tamil
 http://ezhiltv.stream.onecloudlive.in/ezhiltv/ezhilhd/index.m3u8
 #EXTINF:-1 tvg-name="Pogo Tamil" group-title="Kids" tvg-logo="https://i.ibb.co/WNBkfHwr/1000145954.jpg",Pogo Tamil
@@ -2775,8 +2774,7 @@ https://ipcloud.live/veerali/veeralitv/index.m3u8
 https://stream.singamcloud.in/punithantv/punithantv/index.m3u8
 #EXTINF:-1 tvg-name="M Television" group-title="Tamil" tvg-logo="https://i.ibb.co/4Rwv2tP4/1000147004.jpg",M Television
 https://ipcloud.live/mtv/menhd/index.m3u8
-#EXTINF:-1 tvg-name="Anbu Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/NgkM5rTb/1000147006.jpg",Anbu Tv
-https://ipcloud.live/anbutv/anbutvhd/index.m3u8
+
 #EXTINF:-1 tvg-name="Namma Gobi Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/gb4Rg2TG/1000147011.jpg",Namma Gobi Tv
 https://stream.rojatv.cloud/nammagobi/tv/index.m3u8
 #EXTINF:-1 tvg-name="ACP HD" group-title="Tamil" tvg-logo="https://i.ibb.co/dJr4W2r2/1000147012.png",ACP HD
@@ -3299,6 +3297,7 @@ https://epiconvh.akamaized.net/live/filamchi/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.jdmagicbox.com/comp/dharmapuri/m5/9999p4342.4342.180430181533.r6m5/catalogue/mn-tv-dharmapuri-railway-station-dharmapuri-advertising-agencies-for-electronic-media-uavmdlq5sa.jpg" group-title="INDIA",|MOVIES|MN TV
 http://mntv.livebox.co.in/musichls/live.m3u8
+
 
 
 
