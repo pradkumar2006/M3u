@@ -3372,6 +3372,8 @@ https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=176
 #EXTINF:-1 tvg-id="1000119186" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/39_277.png" group-title="Sports",Sony Sports Ten 4 HD
 https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1766251204~acl=/*~id=04682819643198753244858583110938~hmac=48981a34e79c6445d87b66070bda614a7d296e6911157e8236947a3ecdcffd2c
 
+#EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 5 HD
+https://dishmt.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8?hdnea=exp=1765909802~acl=/*~id=39954880517089637800292976382391~hmac=b836c5fd42463f442cd2a4d38d3f8c5ec0513cfe64ce896a5a9fbc9b02a4beec
 
 
 
