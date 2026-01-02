@@ -2003,8 +2003,7 @@ https://live.sscloud7.in/live/suryatv/index.m3u8
 https://live.skystream.in/live/no1tv/index.m3u8
 #EXTINF:-1 tvg-name="King Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/Swyg9d4W/1000136534.jpg",King Tv
 http://kingtv.sscloud7.in/kingtv/kingtv/index.m3u8
-#EXTINF:-1 tvg-name="Maran Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/0dPpSVg/1000136536.jpg",Maran Tv
-https://server.sscloud7.in/marantv/marantv/index.m3u8
+
 #EXTINF:-1 tvg-name="MP Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/fzH6Z1q3/1000136542.jpg",MP Tv
 https://stream.sscloud7.in/live/mptv/index.m3u8
 #EXTINF:-1 tvg-name="Mayuri Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/36PY5KH/1000136545.jpg",Mayuri Tv
@@ -3522,8 +3521,7 @@ https://server.sscloud7.in/aasaitv/aasaitv/index.m3u8
 https://live1.sscloud7.com/hls/anandhamtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" group-title="Local Channels",N TV
 https://stream.sscloud7.in/live/ntv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" group-title="Local Channels",Maran TV
-http://server.sscloud7.in/marantv/marantv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240303_2106393700205419245700865.png" tvg-name="Smiley Tv" group-title="Local Channels",Smiley Tv
 https://live1.sscloud7.com/hls/smileytv.m3u8
 #EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240303_2108146971581320837669712.png" tvg-name="Isai Tv" group-title="Local Channels",Isai Tv
@@ -4113,6 +4111,7 @@ http://162.212.179.32/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
 
 #EXTINF:-1 group-title="Overseas" tvg-logo="https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg",Sooriyan Cinema
 https://cdn.jwplayer.com/videos/LNdcgulf-o4j6Jv34.m3u8
+
 
 
 
