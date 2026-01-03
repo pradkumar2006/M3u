@@ -1105,15 +1105,13 @@ http://server3.sscloud7.in/stmtv/srithangamalaimurugantv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240303_2104134158722555953030217.png" tvg-name="Malar Tv" group-title="Local Channels",Malar Tv
 https://sscloud7.com/hls/malartv.m3u8
-#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240303_1400137414367413094452256.png" tvg-name="Visil Tv" group-title="Local Channels",Visil Tv
-https://stream.sscloud7.in/live/vishiltv1/index.m3u8
+
 #EXTINF:-1 tvg-id="VelavanTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1755348568.png" group-title="Local Channels",Velavan TV
 http://velavantv.sscloud7.in/live/velavantv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240303_1400374822812587750471236.png" tvg-name="Mayuri Tv" group-title="Local Channels",Mayuri Tv
 https://server.sscloud7.in/mayuritvtvl/mayuritvtvl/index.m3u8
-#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240303_1400374822812587750471236.png" group-title="Local Channels",Visil 2 HD
-https://stream.sscloud7.in/live/vishiltv2/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240303_1401166436562038871865819.png" tvg-name="T24 Tv" group-title="Local Channels",T24 Tv
 https://live1.sscloud7.com/hls/t24tv.m3u8
 
@@ -1501,8 +1499,7 @@ https://stream.sscloud7.in/live/maishatv/index.m3u8
 https://sscloud7.com/hls/rktv.m3u8
 #EXTINF:-1  tvg-name="Malar Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240303_2104134158722555953030217.png",Malar Tv
 https://sscloud7.com/hls/malartv.m3u8
-#EXTINF:-1  tvg-name="Visil Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240303_1400137414367413094452256.png",Visil Tv
-https://stream.sscloud7.in/live/vishiltv1/index.m3u8
+
 #EXTINF:-1 tvg-id="VelavanTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1755348568.png" group-title="Local Channels",Velavan TV
 http://velavantv.sscloud7.in/live/velavantv/index.m3u8
 
@@ -1668,6 +1665,7 @@ http://162.212.179.32/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
 
 #EXTINF:-1 group-title="Overseas" tvg-logo="https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg",Sooriyan Cinema
 https://cdn.jwplayer.com/videos/LNdcgulf-o4j6Jv34.m3u8
+
 
 
 
