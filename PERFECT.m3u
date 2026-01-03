@@ -167,8 +167,6 @@ http://riotv.sscloud7.in:1935/riotv/riotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FrjLogo.png?alt=media&token=d60a848f-d60b-47fa-98a4-95f76f15a28e" " group-title="TLL Tamil LCO",|LOCAL| RJ TAMIL TV
 https://wmoy8ngoy2a7-hls-live.5centscdn.com/rjtamil/livetv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://hellophoenix.online/server2/sasitv/img/core-img/favicon.ico" group-title="Phoenix Creations",|LOCAL|SASI TV 
-http://sasitv.phoenixcreations.online:1935/sasitv/sasitv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://sscloud7.in/app/admin/assets/tvchannels/phoenixtv1700672026.JPG" group-title="SSCloud",|LOCAL|VETRI TV
 http://server.sscloud7.in/vertitv/vertitv/index.m3u8
@@ -1159,8 +1157,6 @@ https://stream.advikadigital.in/advika/ssmusic/index.m3u8
 #EXTINF:-1 -1tvg-id="" tvg-logo="" group-title="Music",TSNMUSIC
 http://198.144.149.206:8080/NOTV/VAAGAI/index.m3u8?token=GTR
 
-#EXTINF:-1 tvg-id="GMusic" group-title="Music",G Music
-https://rtmp.applelive.in/gmusic/gmusic/index.m3u8
 
 #EXTINF:-1 tvg-id="JPMusicTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1763572153_JP%2520music%2520tv.png&w=1080&q=75" group-title="Music",JP Music TV
 https://stream.onecloudlive.in/sachintv/jpmusichd/index.m3u8
@@ -1890,6 +1886,7 @@ http://162.212.179.32/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
 
 #EXTINF:-1 group-title="Overseas" tvg-logo="https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg",Sooriyan Cinema
 https://cdn.jwplayer.com/videos/LNdcgulf-o4j6Jv34.m3u8
+
 
 
 
