@@ -102,7 +102,7 @@ https://cdn-3.pishow.tv/live/1253/master.m3u8
 http://202.164.50.194:8000/play/a05u
 
 
-#EXTINF:-1 tvg-id="@AVENGERSOFFICIAL786" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg?20170822070549" group-title="AVENGERS ~ @AVENGERSOFFICIAL786",|TAMIL|KALAIGNAR TV.
+#EXTINF:-1 tvg-id="@AVENGERSOFFICIAL786" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg?20170822070549" group-title="TAMIL",|TAMIL|KALAIGNAR TV.
 https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 
 
@@ -755,11 +755,6 @@ https://cdn-3.pishow.tv/live/1606/master.m3u8
 
 #EXTINF:-1 tvg-name="Polimer Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/4gJjkBvb/1000141913.jpg",Polimer Tv
 https://cdn-2.pishow.tv/live/1241/master.m3u8
-
-#EXTINF:-1 group-title="-",NEWS 9
-http://202.164.50.194:8000/play/a01s/index.m3u8
-
-
 
 #EXTINF:-1 tvg-name="Boys Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/gb3csMbZ/1000144375.jpg",Boys Tv
 https://rtmp.applelive.in/boystv/boystv/index.m3u8
@@ -1928,6 +1923,7 @@ http://162.212.179.32/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
 
 #EXTINF:-1 group-title="Overseas" tvg-logo="https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg",Sooriyan Cinema
 https://cdn.jwplayer.com/videos/LNdcgulf-o4j6Jv34.m3u8
+
 
 
 
