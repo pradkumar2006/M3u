@@ -357,8 +357,7 @@ http://120.138.14.16:8080/hls/tamilmagantv/index.m3u8
 https://skystream.in/live/vedha6528/index.m3u8
 #EXTINF:-1 tvg-name="JC Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/21dpjSk8/1000133570.jpg",JC Tv
 https://skystream.in/live/vedha6528/index.m3u8
-#EXTINF:-1 tvg-name="Thulir Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/Rp9f1PS3/1000133573.jpg",Thulir Tv
-http://live.singamcloud.in/Thulirtv/thulirtv/index.m3u8
+
 #EXTINF:-1 tvg-name="Sakthi Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/wbTGMtP/1000133574.webp",Sakthi Tv
 https://server2.iptelevision.in/hls/sakthitv.m3u8
 #EXTINF:-1 tvg-name="Cheran Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/Fb9W0Mtr/1000133576.jpg",Cheran Tv
@@ -1148,8 +1147,7 @@ https://live.singamcloud.in/bsctv/bsctv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240223_0026202554836848690543423.png" tvg-name="7star Tv" group-title="Local Channels",7star Tv
 http://7starcloud.com:1935/live/7star/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240305_0920178224610300763181208.png" tvg-name="Thirumagal Tv" group-title="Local Channels",Thirumagal Tv
-http://ttv.7starcloud.com:1935/thirumagal/tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240315_0430295020070800902055299.png" tvg-name="KCTN Tv" group-title="Local Channels",KCTN Tv
 http://ttv.7starcloud.com:1935/kctn/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240315_0451574292623150284952506.png" tvg-name="VCTN Tv" group-title="Local Channels",VCTN Tv
@@ -1212,8 +1210,7 @@ https://stream.onecloudlive.in/taitaltv/live/index.m3u8
 https://stream.onecloudlive.in/salamtv/salamtvhd/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local Channels", NELLAI TV
 https://stream.onecloudlive.in/nellaitv/nellaitv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Local Channels", Tiger TV HD
-https://stream.onecloudlive.in/tigertv/tigertvhd/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Local Channels", Britain Tamil
 https://stream.onecloudlive.in/britaintamil/britaintamil/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z6tyhWsq/1920x1080.png" group-title="Local Channels", FORT TV
@@ -1649,3 +1646,4 @@ https://rasinetworks.in/live/rasitamilhd/index.mpd
 http://103.140.254.2:3500/live/3381.m3u8
 #EXTINF:-1 tvg-id="ShaliniTVTiruvannamalai" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746462375_WhatsApp_Image_2025-05-05_at_8.18.04_PM-removebg-preview.png&w=1080&q=75" group-title="Local Channels",Shalini TV Tiruvannamalai
 https://ipcloud.live/shalinitv/shalinitv/index.m3u8
+
