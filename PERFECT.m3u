@@ -227,8 +227,7 @@ https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/mas
 https://servertvhub.site/jio/app/ts_live_894.m3u8
 #EXTINF:-1 tvg-name="Eye Tv" group-title="International" tvg-logo="https://i.ibb.co/G4D6WKM4/eyetvca.jpg",Eye Tv
 https://novaiptv.cc/live/eyetamil/4257832/32fa2542-142d-48e5-86ad-fc98be0e9e5f.m3u8
-#EXTINF:-1 tvg-name="Thalapathi Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/M56t52GH/20250906-110842.jpg",Thalapathi Tv
-http://applelive.in/thalapathytv/thalapathytv.m3u8
+
 #EXTINF:-1 tvg-name="ATN Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/jPXTLj0Q/atntv.jpg",ATN Tv
 http://atntv.stream.onecloudlive.in:8080/atntv/atnhd/index.m3u8
 #EXTINF:-1 tvg-name="Phoneix Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/2YhYtQsT/phoneixtv.jpg",Phoneix Tv
@@ -342,8 +341,6 @@ http://notvstream.in/chennaiitv/chennaiitv.m3u8?view=tnm3u-addedby=tnm3u
 #EXTINF:-1 tvg-name="NDTV 24Xx7" group-title="Hindi" tvg-logo="https://i.ibb.co/knLR14Y/1000131640.png",NDTV 24Xx7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8?view=tnm3u-addedby=tnm3u
 
-#EXTINF:-1 tvg-name="Thai Tv" group-title="International" tvg-logo="https://i.ibb.co/JwzV28Bk/1000132408.jpg",Thai Tv
-https://cdn.anystream.uk:8082/thaitv/thailive/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Success Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/cKCSr0dB/1000133564.jpg",Success Tv
 https://stream.onecloudlive.in/successtv/successtvhd/index.m3u8
@@ -445,8 +442,7 @@ https://sscloud7.com/live/malartv/index.m3u8
 #EXTINF:-1 tvg-name="Bharathi Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/PGhh0LKz/1000136505.jpg",Bharathi Tv
 https://server.sscloud7.in/live/bharathitv/index.m3u8
 
-#EXTINF:-1 tvg-name="Thendral Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/kgxJkNYV/1000136510.png",Thendral Tv
-https://sscloud7.com/live/thendraltv/index.m3u8
+
 #EXTINF:-1 tvg-name="Aaryaa Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/dRLxwNg/1000136512.jpg",Aaryaa Tv
 https://live.sscloud7.in/live/aaryaatv/index.m3u8
 #EXTINF:-1 tvg-name="Suriyan Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/Pz56hzqp/1000136514.jpg",Suriyan Tv
@@ -455,8 +451,7 @@ https://sscloud7.com/live/suriyantv/index.m3u8
 https://server.sscloud7.in/live/malligai/index.m3u8
 #EXTINF:-1 tvg-name="N Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/Q30J2rSM/1000136517.jpg",N Tv
 https://stream.sscloud7.in/live/ntv/index.m3u8
-#EXTINF:-1 tvg-name="Surya Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/vxR1yb6N/1000136529.jpg",Surya Tv
-https://live.sscloud7.in/live/suryatv/index.m3u8
+
 #EXTINF:-1 tvg-name="No1 Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/nsCH3v5L/1000136532.jpg",No1 Tv
 https://live.skystream.in/live/no1tv/index.m3u8
 #EXTINF:-1 tvg-name="King Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/Swyg9d4W/1000136534.jpg",King Tv
@@ -496,8 +491,7 @@ https://stream.galaxyott.live/live/sktv/index.m3u8
 https://stream.onecloudlive.in/toptv/toptvhd/index.m3u8
 #EXTINF:-1 tvg-name="Isai Saaral" group-title="Tamil" tvg-logo="https://i.ibb.co/4RCVPdb5/1000136628.jpg",Isai Saaral
 http://srnet.bmlive.net:1935/isaisaral/mystream/chunklist_w1441521074.m3u8
-#EXTINF:-1 tvg-name="TDN" group-title="Tamil" tvg-logo="https://i.ibb.co/h1BTNcjY/1000136660.jpg",TDN
-https://live.maxtn.in/tdn/tdn/index.m3u8
+
 #EXTINF:-1 tvg-name="Jeyam Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/fV19dTvF/1000136666.jpg",Jeyam Tv
 https://stream.onecloudlive.in/jeyam/jeyammdu/index.m3u8
 #EXTINF:-1 tvg-name="Moon Tv Roja" group-title="Tamil" tvg-logo="https://i.ibb.co/yn28B7Lh/1000136668.jpg",Moon Tv Roja
@@ -779,8 +773,6 @@ http://saitvmdu.stream.onecloudlive.in/saitvmdu/saitvmdu/index.m3u8
 
 #EXTINF:-1 tvg-name="D Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/bRmLh7qs/1000146945.jpg",D Tv
 http://stream.d6-pro.com/Dtv/live/index.m3u8
-#EXTINF:-1 tvg-name="Tamil Star" group-title="Tamil" tvg-logo="https://i.ibb.co/twdvpzDn/1000146947.jpg",Tamil Star
-http://acv.7starcloud.com:1935/tamilstar/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Queens Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/vC299ZpH/1000146965.png",Queens Tv
 https://notvstream.in/queens/queens.m3u8
@@ -975,9 +967,6 @@ https://rasinetworks.in/live/rasimusichd/index.mpd
 #EXTINF:-1 tvg-id="SSMusic" tvg-logo="" group-title="Music",SS Music
 https://stream.advikadigital.in/advika/ssmusic/index.m3u8
 
-#EXTINF:-1 -1tvg-id="" tvg-logo="" group-title="Music",TSNMUSIC
-http://198.144.149.206:8080/NOTV/VAAGAI/index.m3u8?token=GTR
-
 
 #EXTINF:-1 tvg-id="ts400" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11583-j9jype8w-v3/imageContent-11583-j9jype8w-m3.png" group-title="Music",Mega Musiq
 http://iptvmedia.live:8080/F18115/068f009e/308442
@@ -1110,8 +1099,6 @@ http://kingtv.sscloud7.in/kingtv/kingtv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240303_2110057120112825406407419.png" tvg-name="Om Shakthi Tv" group-title="Local Channels",Om Shakthi Tv
 https://live1.sscloud7.com/hls/omsakthitv.m3u8
-#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240305_0902541690314621833418150.png" tvg-name="Surya HD Tv" group-title="Local Channels",Surya HD Tv
-https://stream.sscloud7.in/live/suryatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv1735924218.PNG" group-title="Local Channels",Jith TV
 https://sscloud7.com/live/jithtv/index.m3u8
@@ -1120,11 +1107,6 @@ https://sscloud7.com/live/jithtv/index.m3u8
 https://sscloud7.com/live/malartv/index.m3u8
 #EXTINF:-1 tvg-id="SkyTVTCCL" group-title="Local Channels",Sky TV
 https://uiptv.iptv.pics/hls/skytv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" group-title="Local Channels",Surya tv
-https://live.sscloud7.in/live/suryatv/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Local Channels",Tamil Tv Entertainment
-https://stream.sscloud7.in/live/tamiltv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ksrxqTBM/1000144453.png" tvg-name="Om Tv SS" group-title="Local Channels",Om Tv SS
 http://alk.sscloud7.in:1935/live/ohmtv/playlist.m3u8
@@ -1167,8 +1149,7 @@ https://live.olidigital.in/timetv/timetv/index.m3u8
 https://live.olidigital.in/aadhavantvcolours/aadhavantvcolours/index.m3u8
 #EXTINF:-1 tvg-name="Raga Tv" group-title="Local Channels" tvg-logo="https://i.ibb.co/KzSwyBN4/1000146992.jpg",Raga Tv
 https://live.onecloudlive.in/ragatv/ragatvhd/index.m3u8
-#EXTINF:-1 tvg-id="ThillaiTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1744705879_IMG-20250415-WA0134(1).jpg&w=1920&q=75" group-title="Local Channels",Thillai TV
-https://stream.onecloudlive.in/tcn/tcntv/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Local Channels", Phoenix TV
 http://phoenixtv.stream.onecloudlive.in:8080/phoenixtv/phoenixtv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local Channels", Jeyam TV
@@ -1204,8 +1185,7 @@ https://stream.onecloudlive.in/karnan/gtv/index.m3u8
 https://live.olidigital.in/ctnchannel/ctnchannel/index.m3u8
 #EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240417_2037326916444527633318286.png" group-title="Local Channels", Rich TV
 http://richtv.stream.onecloudlive.in/richtv/richtvhd/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Local Channels", Taital TV
-https://stream.onecloudlive.in/taitaltv/live/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Local Channels", Salaam TV
 https://stream.onecloudlive.in/salamtv/salamtvhd/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local Channels", NELLAI TV
@@ -1314,12 +1294,10 @@ http://notvstream.in/rrtv/rrtv.m3u8
 http://notvstream.in/utv/utv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local Channels", Brightrose TV
 https://notvstream.in/brightsimrosetv/brightsimrosetv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Local Channels", TNTR
-http://198.144.149.206:8080/DINESH/TNTR/index.m3u8?token=GTR
+
 #EXTINF:-1 tvg-logo="" group-title="Local Channels", SUBI TV
 https://notvstream.in/subitv/subitv.m3u8
-#EXTINF:-1tvg-id="" tvg-logo="" group-title="Music",TSNMUSIC
-http://198.144.149.206:8080/NOTV/VAAGAI/index.m3u8?token=GTR
+
 #EXTINF:-1  tvg-name="vasan Tv" group-title="Local Channels" tvg-logo="https://i.ibb.co/4fq70L3/cropped-image.png",Vasan TV
 http://applelive.in/vasantv/vasantv.m3u8
 #EXTINF:-1  tvg-name="Sha Tv" group-title="Local Channels" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/08/20240807_0932597200407677878651042.png",Sha Tv
@@ -1411,8 +1389,7 @@ https://stream.iplive.xyz/silversatmedia/livetv/index.m3u8
 https://stream.iplive.xyz/mayatv/mayatv/index.m3u8
 #EXTINF:-1  tvg-name="N Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240226_1102107808684431871144503.png",N Tv
 http://ntv.phoenixcreations.online/ntv/ntv/playlist.m3u8
-#EXTINF:-1  tvg-name="Thendral Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240226_1455233503130933789842529.png",Thendral Tv
-http://thendraltv.phoenixcreations.online/thendraltv/thendraltv/playlist.m3u8
+
 #EXTINF:-1  tvg-name="SAR Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240303_1359211066685104800433990.png",SAR Tv
 http://sartv.phoenixcreations.online/sartv/sartv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/5Q-fJ6hP384tEgEen_RuPg0Q1iq_gwHrs2tjxd4db32MtJCaI2aUfBlDegnw9QTvZbIV=w240-h480-rw" group-title="Local Channels", Jose tv
@@ -1451,8 +1428,7 @@ http://priyatv.phoenixcreations.online/priyatv/priyatv/playlist.m3u8
 http://ctv.phoenixcreations.online/ctv/ctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/mv4jpeF5UsjK42qemWFUefrTsj5EAr6USSr1ZKI8Sm0HtSiowA5ha5BbcGsWM6mXC4Mp=w240-h480-rw" group-title="Local Channels", RK TV
 http://rktv.phoenixcreations.online/rktv/rktv/playlist.m3u8
-#EXTINF:-1 tvg-country="IN" tvg-url="" group-title="Local Channels",Thendral HD TV
-http://almthendraltv.phoenixcreations.online/almthendraltv/almthendraltv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Local Channels", Velan TV
 http://velantv.phoenixcreations.online/velantv/velantv/index.m3u8
 #EXTINF:-1  tvg-name="Sasi Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240317_1556234352065817057057468.png",Sasi Tv
@@ -1586,8 +1562,7 @@ https://view.apserver.in/tmp_hls11/everesttv/index.m3u8
 https://view.apserver.in/tmp_hls13/skytv/index.m3u8
 #EXTINF:-1 tvg-id="LeafTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1733809002_IMG-20241210-WA0097.jpg&w=1080&q=75" group-title="Local Channels",Leaf TV
 https://view.apserver.in/tmp_hls15/leaftv/index.m3u8
-#EXTINF:-1 tvg-name="ThendralTv" group-title="Local Channels" tvg-logo="https://i.ibb.co/S435QDGz/1000144496.jpg",Thendral Tv
-https://live.thendralcloud.in/thendraltv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-id="SkyTVTCCL" group-title="Local Channels",Sky TV
 https://uiptv.iptv.pics/hls/skytv/index.m3u8
 #EXTINF:-1 tvg-id="PanjamiTV" group-title="Local Channels",Panjami TV
@@ -1609,10 +1584,8 @@ https://rtmp.bmlive.net/bms/urchagamtv/index.m3u8
 
 #EXTINF:-1 tvg-id="VelanTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1750343383_aPre-comp%25201_01085.png&w=1920&q=75" group-title="Local Channels",Velan TV
 https://cloudstream4k.com/velantv/bsk/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Local Channels",Tamil Aaram TV
-https://thamilaaramtv24-hls.secdn.net/thamilaaramtv24-channel/play/ThamilaaramTV.smil/playlist.m3u8
-#EXTINF:-1  tvg-name="Surya Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240307_1226146801845317456848677.png",Surya Tv
-https://galaxyott.live//hls//suryatv.m3u8
+
+
 #EXTINF:-1 tvg-name="N Tv Pkt" group-title="Local Channels" tvg-logo="https://i.ibb.co/Cr4zmhf/1000144394.png",N Tv Pkt
 https://stream.galaxyott.live/live/ntvpkt/index.m3u8
 #EXTINF:-1 tvg-id="SKTV" tvg-logo="https://play-lh.googleusercontent.com/YvCWbikxgiEBpjRZ-DRaLxBcJcZnb54MfWnTUMCbbDX37QWsx6ZsYFJTWnFlZ3Q3lPE=w512-h960-rw" group-title="Local Channels",SK TV
@@ -1646,4 +1619,5 @@ https://rasinetworks.in/live/rasitamilhd/index.mpd
 http://103.140.254.2:3500/live/3381.m3u8
 #EXTINF:-1 tvg-id="ShaliniTVTiruvannamalai" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746462375_WhatsApp_Image_2025-05-05_at_8.18.04_PM-removebg-preview.png&w=1080&q=75" group-title="Local Channels",Shalini TV Tiruvannamalai
 https://ipcloud.live/shalinitv/shalinitv/index.m3u8
+
 
