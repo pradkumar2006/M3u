@@ -709,8 +709,7 @@ https://play.applelive.in/mcntv/mcntv.m3u8
 https://play.applelive.in/jeysontv/jeysontv.m3u8
 #EXTINF:-1 tvg-name="STN" group-title="Tamil" tvg-logo="https://i.ibb.co/rRc3GPNS/1000145832.jpg",STN
 https://play.applelive.in/stntv/stntv.m3u8
-#EXTINF:-1 tvg-name="JCV Musix" group-title="Tamil" tvg-logo="https://i.ibb.co/7t9gdB1v/1000145833.gif",JCV Musix
-https://play.applelive.in/jcvtv/jcvmusix.m3u8
+
 #EXTINF:-1 tvg-name="Boss Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/1B47ySJ/1000145836.jpg",Boss Tv
 https://play.applelive.in/vasantv/vasantv.m3u8
 #EXTINF:-1 tvg-name="Kumari Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/MxSz56Z0/1000145848.jpg",Kumari Tv
@@ -889,9 +888,6 @@ http://m3u.8088y.fun/yt.php?c=AsianetNewsTamil
 #EXTINF:-1 tvg-name="NEO Music" group-title="Tamil" tvg-logo="https://i.ibb.co/23wqrRnt/1000149140.png",NEO Music
 https://live20.bozztv.com/giatvplayout7/giatv-210786/playlist.m3u8
 
-
-#EXTINF:-1 tvg-name="Params Tv" group-title="Local Channel | Tamil" tvg-logo="https://i.ibb.co/twbKx6tR/1000150731.png",Params Tv
-https://app.ashokadigital.net/app/a3e0b02f/index.m3u8
 #EXTINF:-1 tvg-name="Ashoka Tv" group-title="Local Channel | Tamil" tvg-logo="https://i.ibb.co/svps8B7N/1000150737.png",Ashoka Tv
 https://app.ashokadigital.net/app/ce705f4a/index.m3u8
 #EXTINF:-1 tvg-name="Shalini Tv" group-title="Local Channel | Tamil" tvg-logo="https://i.ibb.co/dFK14Fr/1000150767.png",Shalini Tv
@@ -911,9 +907,6 @@ https://ipcloud.live/sachintv/aadviktv/index.mpd
 #EXTINF:-1 tvg-name="FIFA+" group-title="Sports" tvg-logo="https://i.ibb.co/YBrYQfn5/1000153028.png",FIFA+
 https://jmp2.uk/stvp-IN270000230
 
-
-#EXTINF:-1 tvg-name="SSCN" group-title="Local Channel | Tamil" tvg-logo="https://i.ibb.co/cKhFX8gZ/1000153226.png",SSCN
-https://app.ashokadigital.net/sscn/sscn/index.m3u8
 
 #EXTINF:-1 tvg-name="Maniway" group-title="Local Channel | Tamil" tvg-logo="https://i.ibb.co/ym7yNhgf/1000157490.png",Maniway
 https://live.singamcloud.in/bsctv/bsctv/index.m3u8
@@ -1744,6 +1737,7 @@ http://162.212.179.32/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
 
 #EXTINF:-1 group-title="Overseas" tvg-logo="https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg",Sooriyan Cinema
 https://cdn.jwplayer.com/videos/LNdcgulf-o4j6Jv34.m3u8
+
 
 
 
