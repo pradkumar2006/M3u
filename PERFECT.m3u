@@ -1020,12 +1020,6 @@ https://app.ashokadigital.net/app/ce705f4a/index.m3u8
 https://stream.singamcloud.in/shalinitv/shalinitv/index.m3u8
 #EXTINF:-1 tvg-name="Sailam Tv" group-title="Local Channel | Tamil" tvg-logo="https://i.ibb.co/d4Lq6wRQ/1000150786.png",Sailam Tv
 https://stream.onecloudlive.in/deepamtv/sailamtv/index.m3u8
-#EXTINF:-1 tvg-name="Alaya Magimai" group-title="Devotional" tvg-logo="https://i.ibb.co/Z1N0YSSB/1000150790.png",Alaya Magimai
-https://app.ashokadigital.net/aalayamagimaitv/aalayamagimaitv/index.m3u8
-#EXTINF:-1 tvg-name="Dheivigam Tv" group-title="Devotional" tvg-logo="https://i.ibb.co/Kx3b11vd/1000150819.png",Dheivigam Tv
-https://stream.singamcloud.in/Dheiveegamtv/Dheiveegamtv/index.m3u8
-#EXTINF:-1 tvg-name="Dharumai Adhenam Tv" group-title="Devotional" tvg-logo="https://i.ibb.co/3KPJ581/1000150821.png",Dharumai Adhenam Tv
-https://stream.onecloudlive.in/taitaltv/livetv/index.m3u8
 #EXTINF:-1 tvg-name="Tharun Movies" group-title="Local Channel | Tamil" tvg-logo="https://i.ibb.co/7NvV0JbL/1000150829.png",Tharun Movies
 https://streaming.livebox.co.in/tharunmovieshls/live.m3u8
 #EXTINF:-1 tvg-name="RJ Tamil" group-title="Local Channel | Tamil" tvg-logo="https://i.ibb.co/3yLcrFSB/1000150831.png",RJ Tamil
@@ -1128,9 +1122,9 @@ https://stream.onecloudlive.in/tcn/tcntv/index.m3u8
 https://vvsolutions-server12.in/gubbinewskannada_11/video.m3u8
 #EXTINF:-1 tvg-name="KM News Bengaluru" group-title="Local Channel | Kannada" tvg-logo="https://i.ibb.co/k2VcXyJv/1000159603.png",KM News Bengaluru
 http://desitashantv.livebox.co.in/kmnewshls/kmnews.m3u8
-#EXTINF:-1 tvg-name="Kirubai Tv" group-title="Devotional" tvg-logo="https://i.ibb.co/TM2fQW6s/1000159605.png",Kirubai Tv
+#EXTINF:-1 tvg-name="Kirubai Tv" group-title="TAMIL" tvg-logo="https://i.ibb.co/TM2fQW6s/1000159605.png",Kirubai Tv
 https://server1.thewebworld.in:3208/hybrid/play.m3u8
-#EXTINF:-1 tvg-name="Joy HD Tv" group-title="Devotional" tvg-logo="https://i.ibb.co/1J7hNb8C/1000159607.png",Joy HD Tv
+#EXTINF:-1 tvg-name="Joy HD Tv" group-title="TAMIL" tvg-logo="https://i.ibb.co/1J7hNb8C/1000159607.png",Joy HD Tv
 https://server1.thewebworld.in:3208/hybrid/play.m3u8
 #EXTINF:-1 tvg-name="ABN Andra Jothi" group-title="Telugu" tvg-logo="https://i.ibb.co/pBspMJdd/1000159737.png",ABN Andra Jothi
 https://cdn-1.pishow.tv/live/407/master.m3u8
@@ -1152,8 +1146,7 @@ http://voicetv.stream.ashokadigital.net:8080/voicetv/voicetvhd/index.m3u8
 https://stream.onecloudlive.in/sachintv/strawberrytv/index.m3u8
 #EXTINF:-1 tvg-name="Bright Rose Tv" group-title="Local Channel | Tamil" tvg-logo="https://i.ibb.co/svNNmL97/1000159797.png",Bright Rose Tv
 https://notvstream.in/brightsimrosetv/brightsimrosetv.m3u8
-#EXTINF:-1 tvg-name="Easan Tv" group-title="Devotional" tvg-logo="https://i.ibb.co/tMtysz6V/1000159800.png",Easan Tv
-https://amigofx.com:1936/easontv/easontv/playlist.m3u8
+
 #EXTINF:-1 tvg-name="RV Tv HD" group-title="Local Channel | Tamil" tvg-logo="https://i.ibb.co/4RdSBq9G/1000160410.png",RV Tv HD
 https://ipcloud.live/rvtv/rvtvhd/index.m3u8
 #EXTINF:-1 tvg-name="Bass Tv" group-title="Local Channel | Tamil" tvg-logo="https://i.ibb.co/0T18RLC/1000160418.png",Bass Tv
@@ -1171,8 +1164,6 @@ http://63b03f7689049.streamlock.net:1935/live/6/playlist.m3u8
 https://ipcloud.live/sachintv/musichd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ACE Tv" tvg-logo="https://i.ibb.co/XfRyXFbK/1000161169.png" group-title="Sports",ACE Tv
 https://streams2.sofast.tv/WiseM3U8_30/sofast/cleanhls/master.m3u8
-#EXTINF:-1 tvg-name="Britain Tamil Bakthi" group-title="Devotional" tvg-logo="https://i.ibb.co/5XHS38QS/1000161604.png",Britain Tamil Bakthi
-https://stream.onecloudlive.in/britaintamil/britaintamil/index.m3u8
 
 #EXTINF:-1 tvg-name="FILMACHI BHOJPURI" group-title="BHOJPURI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Filamchi-Bhojpuri_Tagline.jpg",FILMACHI BHOJPURI
 https://epiconvh.akamaized.net/live/filamchi/master.m3u8
@@ -1923,6 +1914,7 @@ http://162.212.179.32/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
 
 #EXTINF:-1 group-title="Overseas" tvg-logo="https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg",Sooriyan Cinema
 https://cdn.jwplayer.com/videos/LNdcgulf-o4j6Jv34.m3u8
+
 
 
 
