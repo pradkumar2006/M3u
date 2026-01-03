@@ -173,32 +173,13 @@ http://sasitv.phoenixcreations.online:1935/sasitv/sasitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sscloud7.in/app/admin/assets/tvchannels/phoenixtv1700672026.JPG" group-title="SSCloud",|LOCAL|VETRI TV
 http://server.sscloud7.in/vertitv/vertitv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAyu8aAd_Dr7q8D7Nq9l9V-Q-BxLI9ffiNgV8cwBb_2TyQ7gfFgXYagZJ_we0J8wJhbf4&usqp=CAU" group-title="1Cloud",|LOCAL|VIDIYAL TV
-https://account11.livebox.co.in/vidiyaltvhls/live.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/ABHARATHI.png/revision/latest?cb=20200307060240" group-title="1Cloud",|LOCAL|BHARATHI TV
-https://cloudstreamer.site/karnan/bharathitv.m3u8
-#EXTINF:-1 tvg-logo="https://sc.kingofsat.eu/jpg/deepam-tv.jpg" group-title="1Cloud",|LOCAL|DEEPAM TV
-https://1cloud.digital/deepamtv/deepamtv.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/1lTZUe4WeT_1GcTAFvdAUihFkR3BFgANpA9-eGueZaAfyq8ecyiJo5mh2lkLAa-b84A" group-title="1Cloud",|LOCAL|EAGLE TV
-http://eagle.7starcloud.com:1935/live/eagletv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/800px-GTV_Philippines_Logo_Vector.svg.png" group-title="1Cloud",|LOCAL|G TV
-https://cloudstreamer.site/karnan/gtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.gemtvasia.com/sites/gemtvasia.com/files/styles/image_700x394/public/ct_custom_page_f_primary_image/gem-default-thumb-20200318.jpg?itok=aJouEnzh" group-title="1Cloud",|LOCAL|GEM TV
 https://gemtv.circle7stream.com/gem/fcce47a8559e30755582c396ce7fce9e.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/38/ce/ea/38ceea17784e2396392ead67acc05313.jpg" group-title="1Cloud",|LOCAL|I WORLD TV
-http://198.144.149.206:8080/NOTV/IWORLDHD/index.m3u8?token=GTR
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/m0axMB9eZKt93L-twW_Tsl-F0S6_CP62DxHUW-nRe6toU-N8cAvPj2B1faU4ZeJyVDg" group-title="1Cloud",|LOCAL|JC TV
 http://applelive.in/jctv/jctv.m3u8
-
-#EXTINF:-1 tvg-logo="https://fueler.io/storage/users/timeline_image/1692936982-l6buhru2iidtrj5lkvng.jpg" group-title="1Cloud",|LOCAL|KANCHI MEDIA
-http://198.144.149.206:8080/NOTV/KANCHIMEDIA/index.m3u8?token=GTR
 
 
 #EXTINF:-1 tvg-name="Raj Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/Xxp6tLPX/rajtv.jpg",Raj Tv
@@ -1947,6 +1928,7 @@ http://162.212.179.32/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
 
 #EXTINF:-1 group-title="Overseas" tvg-logo="https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg",Sooriyan Cinema
 https://cdn.jwplayer.com/videos/LNdcgulf-o4j6Jv34.m3u8
+
 
 
 
