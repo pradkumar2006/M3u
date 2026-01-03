@@ -1665,6 +1665,10 @@ http://162.212.179.32/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
 
 #EXTINF:-1 group-title="Overseas" tvg-logo="https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg",Sooriyan Cinema
 https://cdn.jwplayer.com/videos/LNdcgulf-o4j6Jv34.m3u8
+#EXTINF:-1 tvg-id="RasiTamil" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1742386498_RASI%2520TAMIL%2520%2520LOGO%2520HD.png&w=1920&q=75" group-title="Local Channels",Rasi Tamil
+https://rasinetworks.in/live/rasitamilhd/index.mpd
+#EXTINF:-1  tvg-name="Brio" group-title="Local Channels" tvg-logo="https://www.lyngsat.com/logo/tv/bb/brio-tv-in.png",Brio TV
+http://103.140.254.2:3500/live/3381.m3u8
 
 
 
