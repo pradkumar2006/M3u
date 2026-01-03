@@ -534,44 +534,6 @@ http://toptv.phoenixcreations.online:1935/live/toptv/chunklist_w252215809.m3u8
 #EXTINF:-1 tvg-logo="https://www.vasantham.lk/wp-content/uploads/2016/07/vasantham_logo_224x187.png" group-title="Tamil International",|LOCAL|VASANTHAM TV
 https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/20a317b0496a4930b375290505e5d628.sdp/playlist_dvr.m3u8
 
-#EXTINF:-1 group-title="Tamil-News" tvg-logo="http://akamaividz.zee5.com/resources/0-9-203/list/386x386/09203polimernews.png" tvg-id="636",|NEWS| POLIMER NEWS
-https://telegram-bot-ttl.thirumurthy91.repl.co/yt_gen?ch=/channel/UC8Z-VjXBtDJTvq6aqkIskPg/live
-
-#EXTINF:-1 group-title="Tamil-News" tvg-logo="http://www.thanthitv.com/Images/TTV-800x800.png" tvg-id="830", |NEWS|THANTHI TV
-https://telegram-bot-ttl.thirumurthy91.repl.co/yt_gen?ch=/c/ThanthitvNews/live
-
-#EXTINF:-1 group-title="Tamil-News" tvg-logo="http://7starcloud.in/NB.png" tvg-id="ts58", |NEWS|NEWS 18 TAMILNADU
-https://telegram-bot-ttl.thirumurthy91.repl.co/yt_gen?ch=/channel/UCat88i6_rELqI_prwvjspRA/live
-
-#EXTINF:-1 group-title="Tamil-News" tvg-logo="http://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_793/LOGO/5Jz56JGv.png" tvg-id="677",|NEWS| PUTHIYA THALAIMURAI
-https://telegram-bot-ttl.thirumurthy91.repl.co/yt_gen?ch=/c/PuthiyaThalaimuraiTV/live
-
-#EXTINF:-1 group-title="Tamil-News" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9vKWPBN8MLcdhdkVJdrKwOcOn90APL9horm_P_lQ=s88-c-k-c0x00ffffff-no-rj" tvg-id="sun_news",|NEWS| SUN NEWS
-https://telegram-bot-ttl.thirumurthy91.repl.co/yt_gen?ch=/@Sunnewstamil/live
-
-#EXTINF:-1 group-title="Tamil-News" tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2020/07/raj-news-520x347.jpg" tvg-id="767",|NEWS| RAJ NEWS TAMIL
-https://telegram-bot-ttl.thirumurthy91.repl.co/yt_gen?ch=/rajnewstamil/live
-
-#EXTINF:-1 group-title="Tamil-News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/SathiyamFinallogo.png" tvg-id="671",|NEWS|SATHIYAM TV
-https://telegram-bot-ttl.thirumurthy91.repl.co/yt_gen?ch=/SathiyamTV/live
-
-#EXTINF:-1 group-title="Tamil-News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Malai_Murasu.png" tvg-id="826", |NEWS|MALAIMURASU SEITHIGAL
-https://telegram-bot-ttl.thirumurthy91.repl.co/yt_gen?ch=/@MalaimurasuTv/live
-
-#EXTINF:-1 group-title="Tamil-News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Captain_News.png" tvg-id="645", |NEWS|CAPTAIN NEWS
-https://telegram-bot-ttl.thirumurthy91.repl.co/yt_gen?ch=/@CaptainNews/live
-
-#EXTINF:-1 group-title="Tamil-News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Tamil_24x7.png" tvg-id="1954",|NEWS| NEWS TAMIL 24X7
-https://telegram-bot-ttl.thirumurthy91.repl.co/yt_gen?ch=/@NewsTamil24X7TV/live
-
-#EXTINF:-1 group-title="Tamil-News" tvg-logo="https://english.cdn.zeenews.com/images/logo/desktop_header_tamil_logo_39px.png" tvg-id="zeetamilnews",|NEWS| ZEE TAMIL NEWS
-https://telegram-bot-ttl.thirumurthy91.repl.co/yt_gen?ch=/@ZeeTamilNews/live
-
-#EXTINF:-1 group-title="Tamil-News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/Seithigal.jpeg/revision/latest?cb=20191224114931" tvg-id="1210", |NEWS|KALAIGNAR SEITHIGAL
-https://telegram-bot-ttl.thirumurthy91.repl.co/yt_gen?ch=/@KalaignarTVNews/live
-
-#EXTINF:-1 group-title="Tamil-News" tvg-logo="https://m.behindwoods.com/tamil-movies/slideshow/complete-list-of-tamil-tv-channels-price/images/jaya-plus.jpg" tvg-id="418", |NEWS|JAYA PLUS
-https://telegram-bot-ttl.thirumurthy91.repl.co/yt_gen?ch=/watch?v=6ot9tR--xrs&ab_channel=JayaPlus
 
 
 #EXTINF:-1 group-title="உள்ளூர்",|LOCAL|DHONI TV
@@ -580,9 +542,6 @@ http://siptoa.com:1935/dhoni/tv/siptoa.m3u8
 #EXTINF:-1 group-title="Tamil-News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/VijayTakkarLogo.webp/480px-VijayTakkarLogo.webp.png" tvg-id="767",|MUSIC| VIJAY TAKKAR
 http://dpny5.1234.uno:6061/starvijaymusic/index.m3u8
 
-
-#EXTINF:-1 group-title="Tamil-News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Sirippoli_tv.jpg" tvg-id="767",|COMEDY| SIRIPPOLI TV
-http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8
 
 #EXTINF:-1 group-title="Tamil-News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Sirippoli_tv.jpg" tvg-id="767",|COMEDY| SIRIPPOLI TV
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
@@ -3088,6 +3047,7 @@ http://162.212.179.32/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
 
 #EXTINF:-1 group-title="Overseas" tvg-logo="https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg",Sooriyan Cinema
 https://cdn.jwplayer.com/videos/LNdcgulf-o4j6Jv34.m3u8
+
 
 
 
