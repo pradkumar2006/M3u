@@ -206,8 +206,7 @@ https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 #EXTINF:-1 tvg-name="Murasu Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/4w53m0Yv/murasu.jpg",Murasu Tv
 https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
-#EXTINF:-1 tvg-name="Sha Tv" group-title="Tamil" tvg-logo="https://tvicn.wordpress.com/wp-content/uploads/2025/09/20250902_2347216560944487863427205.jpg",Sha Tv
-http://applelive.in/shatv/shatv.m3u8
+
 #EXTINF:-1 tvg-name="Suriyan Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/ksYnxnVt/20250906-013409.jpg",Suriyan Tv
 http://applelive.in/suryantv/suryantv.m3u8
 #EXTINF:-1 tvg-name="S Max HD" group-title="Tamil" tvg-logo="https://tvicn.wordpress.com/wp-content/uploads/2025/09/20250902_1928366723473282713429482.jpg",S Max HD
@@ -534,8 +533,6 @@ https://stream.sscloud7.in/live/maishatv/index.m3u8
 #EXTINF:-1 tvg-name="Maa Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/tpjPhVqr/1000137324.jpg",Maa Tv
 https://live.singamcloud.in/maatv/maatv/index.m3u8
 
-#EXTINF:-1 tvg-name="Sasi HD" group-title="Tamil" tvg-logo="https://i.ibb.co/Nnmrhy66/1000137338.png",Sasi HD
-http://sasitv.phoenixcreations.online/sasitv/sasitv/playlist.m3u8
 #EXTINF:-1 tvg-name="Subash Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/KjtgcG4m/1000137340.png",Subash Tv
 https://ipcloud.live/subashtv/subashhd/index.m3u8
 #EXTINF:-1 tvg-name="Madhan Tv" group-title="Tamil" tvg-logo="https://i.ibb.co/6cbshJhQ/1000137342.png",Madhan Tv
@@ -1465,8 +1462,7 @@ https://sscloud7.com/live/jithtv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" group-title="Local Channels",Malar tv
 https://sscloud7.com/live/malartv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Local Channels", Sky TV
-https://sscloud7.com/live/skytv/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil"  group-title="Local Channels",Surya tv
 https://live.sscloud7.in/live/suryatv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local Channels", Thendral TV
@@ -1602,6 +1598,7 @@ https://rasinetworks.in/live/rasitamilhd/index.mpd
 http://103.140.254.2:3500/live/3381.m3u8
 #EXTINF:-1 tvg-id="ShaliniTVTiruvannamalai" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746462375_WhatsApp_Image_2025-05-05_at_8.18.04_PM-removebg-preview.png&w=1080&q=75" group-title="Local Channels",Shalini TV Tiruvannamalai
 https://ipcloud.live/shalinitv/shalinitv/index.m3u8
+
 
 
 
