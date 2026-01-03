@@ -740,16 +740,6 @@ https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 #EXTINF:-1 tvg-name="CVR English" group-title="English" tvg-logo="https://i.ibb.co/rGdBCyk1/1000141448.jpg",CVR English
 https://cdn-2.pishow.tv/live/425/master.m3u8
 
-
-#EXTINF:-1 tvg-name="Epic Tv" group-title="Infotainment" tvg-logo="https://i.ibb.co/YBPsHDXJ/1000141566.jpg",Epic Tv
-https://epiconvh.akamaized.net/live/epic/master.m3u8
-#EXTINF:-1 tvg-name="I News" group-title="Telugu" tvg-logo="https://i.ibb.co/qM4B2nGs/1000141573.jpg",I News
-https://cdn-1.pishow.tv/live/411/master.m3u8
-#EXTINF:-1 tvg-name="ITN News" group-title="Sinhala" tvg-logo="https://i.ibb.co/zHrjtrMY/1000141574.jpg",ITN News
-https://edge4-moblive.yuppcdn.net/transsd/smil%3aitn43.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Madha Tv" group-title="English" tvg-logo="https://i.ibb.co/sdMSdGcd/1000141817.jpg",Madha Tv
-https://60e68b19dd194.streamlock.net:55/madhatv/madhatv.stream_HDp/playlist.m3u8
 #EXTINF:-1 tvg-name="Malai Murasu" group-title="Tamil" tvg-logo="https://i.ibb.co/W4KNgr2V/1000141828.jpg",Malai Murasu
 https://cdn-3.pishow.tv/live/1606/master.m3u8
 
@@ -856,10 +846,7 @@ https://servertvhub.site/jio/app/ts_live_546.m3u8
 https://servertvhub.site/jio/app/ts_live_550.m3u8
 #EXTINF:-1 tvg-name="Chutti Tv SD" group-title="Kids" tvg-logo="https://i.ibb.co/Ld6HnYVL/1000146023.jpg",Chutti Tv SD
 https://servertvhub.site/jio/app/ts_live_557.m3u8
-#EXTINF:-1 tvg-name="Discovery Tamil" group-title="Infotainment" tvg-logo="https://i.ibb.co/JR04jTCz/1000146024.jpg",Discovery Tamil
-https://servertvhub.site/jio/app/ts_live_569.m3u8
-#EXTINF:-1 tvg-name="History Tv 18 HD Tamil" group-title="Infotainment" tvg-logo="https://i.ibb.co/5gthmFJt/1000145958.jpg",History Tv 18 HD Tamil
-https://servertvhub.site/jio/app/ts_live_579.m3u8
+
 #EXTINF:-1 tvg-name="Tunes6" group-title="Tamil" tvg-logo="https://i.ibb.co/m5TjVfxs/1000146026.jpg",Tunes6
 https://servertvhub.site/jio/app/ts_live_803.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network Tamil" group-title="Kids" tvg-logo="https://i.ibb.co/N6yMzzL6/1000146028.jpg",Cartoon Network Tamil
@@ -1029,18 +1016,7 @@ https://ipcloud.live/rjtamiltv/rjtamil/index.m3u8
 https://ipcloud.live/sachintv/aadviktv/index.mpd
 
 
-#EXTINF:-1 tvg-name="Gemini Music HD" group-title="Telugu" tvg-logo="https://i.ibb.co/7dsnh8ZX/1000152992.png",Gemini Music HD
-https://servertvhub.site/jio/app/ts_live_898.m3u8
-#EXTINF:-1 tvg-name="Gemini Life HD" group-title="Telugu" tvg-logo="https://i.ibb.co/LdwP8qjF/1000152993.png",Gemini Life HD
-https://servertvhub.site/jio/app/ts_live_684.m3u8
-#EXTINF:-1 tvg-name="Gemini Comedy" group-title="Telugu" tvg-logo="https://i.ibb.co/WvLWYpbm/1000152998.png",Gemini Comedy
-https://servertvhub.site/jio/app/ts_live_729.m3u8
-#EXTINF:-1 tvg-name="Animal Planet Telugu" group-title="Infotainment" tvg-logo="https://i.ibb.co/qFVx308C/1000152999.png",Animal Planet Telugu
-https://servertvhub.site/jio/app/ts_live_3183.m3u8
-#EXTINF:-1 tvg-name="Sai Tv Telugu" group-title="Telugu" tvg-logo="https://i.ibb.co/HD0w7NRw/1000153001.png",Sai Tv Telugu
-https://servertvhub.site/jio/app/ts_live_3087.m3u8
-#EXTINF:-1 tvg-name="Saregama Telugu" group-title="Telugu" tvg-logo="https://i.ibb.co/cSMwMSqp/1000153003.png",Saregama Telugu
-https://servertvhub.site/jio/app/ts_live_2745.m3u8
+
 #EXTINF:-1 tvg-name="FIFA+" group-title="Sports" tvg-logo="https://i.ibb.co/YBrYQfn5/1000153028.png",FIFA+
 https://jmp2.uk/stvp-IN270000230
 
@@ -1914,6 +1890,7 @@ http://162.212.179.32/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
 
 #EXTINF:-1 group-title="Overseas" tvg-logo="https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg",Sooriyan Cinema
 https://cdn.jwplayer.com/videos/LNdcgulf-o4j6Jv34.m3u8
+
 
 
 
